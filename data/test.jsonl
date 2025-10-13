@@ -1,0 +1,1000 @@
+{"image_id": 20485, "image": "COCO_val2014_000000020485.jpg", "annotations": ["bowl", "dining table", "pizza"]}
+{"image_id": 521692, "image": "COCO_val2014_000000521692.jpg", "annotations": ["skis", "person"]}
+{"image_id": 170950, "image": "COCO_val2014_000000170950.jpg", "annotations": ["handbag", "backpack", "person", "suitcase", "car"]}
+{"image_id": 222009, "image": "COCO_val2014_000000222009.jpg", "annotations": ["vase", "dining table"]}
+{"image_id": 35438, "image": "COCO_val2014_000000035438.jpg", "annotations": ["bench", "dog"]}
+{"image_id": 53788, "image": "COCO_val2014_000000053788.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 106281, "image": "COCO_val2014_000000106281.jpg", "annotations": ["train"]}
+{"image_id": 227468, "image": "COCO_val2014_000000227468.jpg", "annotations": ["suitcase", "handbag", "backpack"]}
+{"image_id": 85292, "image": "COCO_val2014_000000085292.jpg", "annotations": ["train"]}
+{"image_id": 297277, "image": "COCO_val2014_000000297277.jpg", "annotations": ["bench", "boat"]}
+{"image_id": 548159, "image": "COCO_val2014_000000548159.jpg", "annotations": ["bus"]}
+{"image_id": 445038, "image": "COCO_val2014_000000445038.jpg", "annotations": ["airplane"]}
+{"image_id": 532164, "image": "COCO_val2014_000000532164.jpg", "annotations": ["tie", "apple", "person"]}
+{"image_id": 405736, "image": "COCO_val2014_000000405736.jpg", "annotations": ["skis", "backpack", "person"]}
+{"image_id": 467522, "image": "COCO_val2014_000000467522.jpg", "annotations": ["giraffe"]}
+{"image_id": 401027, "image": "COCO_val2014_000000401027.jpg", "annotations": ["sandwich", "knife", "dining table", "cup", "fork"]}
+{"image_id": 420960, "image": "COCO_val2014_000000420960.jpg", "annotations": ["person", "bowl", "cell phone"]}
+{"image_id": 391446, "image": "COCO_val2014_000000391446.jpg", "annotations": ["boat"]}
+{"image_id": 311041, "image": "COCO_val2014_000000311041.jpg", "annotations": ["bench", "orange", "cup"]}
+{"image_id": 516174, "image": "COCO_val2014_000000516174.jpg", "annotations": ["handbag", "bus", "person", "truck", "airplane"]}
+{"image_id": 120783, "image": "COCO_val2014_000000120783.jpg", "annotations": ["bowl", "banana", "person"]}
+{"image_id": 105448, "image": "COCO_val2014_000000105448.jpg", "annotations": ["truck", "car", "skateboard", "person"]}
+{"image_id": 397041, "image": "COCO_val2014_000000397041.jpg", "annotations": ["sandwich", "dining table", "cup", "fork", "person", "spoon"]}
+{"image_id": 118450, "image": "COCO_val2014_000000118450.jpg", "annotations": ["bicycle", "backpack", "person", "bench", "bottle", "teddy bear"]}
+{"image_id": 179322, "image": "COCO_val2014_000000179322.jpg", "annotations": ["bowl", "cup", "microwave", "person"]}
+{"image_id": 451872, "image": "COCO_val2014_000000451872.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 31569, "image": "COCO_val2014_000000031569.jpg", "annotations": ["zebra", "cow", "elephant"]}
+{"image_id": 381971, "image": "COCO_val2014_000000381971.jpg", "annotations": ["handbag", "backpack", "person", "horse", "car", "stop sign", "fire hydrant"]}
+{"image_id": 111194, "image": "COCO_val2014_000000111194.jpg", "annotations": ["toothbrush", "person"]}
+{"image_id": 437205, "image": "COCO_val2014_000000437205.jpg", "annotations": ["couch", "banana", "person"]}
+{"image_id": 40705, "image": "COCO_val2014_000000040705.jpg", "annotations": ["traffic light", "person", "tie", "truck", "car"]}
+{"image_id": 431686, "image": "COCO_val2014_000000431686.jpg", "annotations": ["stop sign", "car"]}
+{"image_id": 34535, "image": "COCO_val2014_000000034535.jpg", "annotations": ["handbag", "book", "bird", "chair", "bed"]}
+{"image_id": 515565, "image": "COCO_val2014_000000515565.jpg", "annotations": ["clock"]}
+{"image_id": 46877, "image": "COCO_val2014_000000046877.jpg", "annotations": ["cat"]}
+{"image_id": 160892, "image": "COCO_val2014_000000160892.jpg", "annotations": ["umbrella"]}
+{"image_id": 231169, "image": "COCO_val2014_000000231169.jpg", "annotations": ["train"]}
+{"image_id": 560281, "image": "COCO_val2014_000000560281.jpg", "annotations": ["bear"]}
+{"image_id": 526580, "image": "COCO_val2014_000000526580.jpg", "annotations": ["remote", "chair", "tv", "person"]}
+{"image_id": 278966, "image": "COCO_val2014_000000278966.jpg", "annotations": ["toilet", "person"]}
+{"image_id": 384834, "image": "COCO_val2014_000000384834.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 546248, "image": "COCO_val2014_000000546248.jpg", "annotations": ["dining table", "hot dog"]}
+{"image_id": 25034, "image": "COCO_val2014_000000025034.jpg", "annotations": ["boat", "person"]}
+{"image_id": 61605, "image": "COCO_val2014_000000061605.jpg", "annotations": ["person", "train"]}
+{"image_id": 7050, "image": "COCO_val2014_000000007050.jpg", "annotations": ["boat", "person"]}
+{"image_id": 558013, "image": "COCO_val2014_000000558013.jpg", "annotations": ["kite", "boat", "person"]}
+{"image_id": 354539, "image": "COCO_val2014_000000354539.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 400916, "image": "COCO_val2014_000000400916.jpg", "annotations": ["keyboard", "tv", "vase", "chair", "mouse"]}
+{"image_id": 420914, "image": "COCO_val2014_000000420914.jpg", "annotations": ["dog", "chair"]}
+{"image_id": 478522, "image": "COCO_val2014_000000478522.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 571598, "image": "COCO_val2014_000000571598.jpg", "annotations": ["tie", "remote", "person"]}
+{"image_id": 572574, "image": "COCO_val2014_000000572574.jpg", "annotations": ["bird"]}
+{"image_id": 368820, "image": "COCO_val2014_000000368820.jpg", "annotations": ["handbag", "backpack", "person", "suitcase", "bench"]}
+{"image_id": 61422, "image": "COCO_val2014_000000061422.jpg", "annotations": ["toilet", "sink"]}
+{"image_id": 7278, "image": "COCO_val2014_000000007278.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 252147, "image": "COCO_val2014_000000252147.jpg", "annotations": ["book", "keyboard", "laptop", "cup", "scissors", "bottle", "horse", "tv"]}
+{"image_id": 26024, "image": "COCO_val2014_000000026024.jpg", "annotations": ["baseball glove", "chair", "baseball bat", "person"]}
+{"image_id": 495881, "image": "COCO_val2014_000000495881.jpg", "annotations": ["cow"]}
+{"image_id": 283505, "image": "COCO_val2014_000000283505.jpg", "annotations": ["bicycle", "cat"]}
+{"image_id": 533480, "image": "COCO_val2014_000000533480.jpg", "annotations": ["handbag", "umbrella", "person", "tie", "truck", "car"]}
+{"image_id": 120234, "image": "COCO_val2014_000000120234.jpg", "annotations": ["person"]}
+{"image_id": 6719, "image": "COCO_val2014_000000006719.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 258674, "image": "COCO_val2014_000000258674.jpg", "annotations": ["car", "parking meter"]}
+{"image_id": 396754, "image": "COCO_val2014_000000396754.jpg", "annotations": ["horse", "person"]}
+{"image_id": 51403, "image": "COCO_val2014_000000051403.jpg", "annotations": ["dog", "chair"]}
+{"image_id": 149890, "image": "COCO_val2014_000000149890.jpg", "annotations": ["giraffe", "zebra"]}
+{"image_id": 119360, "image": "COCO_val2014_000000119360.jpg", "annotations": ["laptop", "cat"]}
+{"image_id": 149550, "image": "COCO_val2014_000000149550.jpg", "annotations": ["toilet", "cup", "sink"]}
+{"image_id": 231512, "image": "COCO_val2014_000000231512.jpg", "annotations": ["clock"]}
+{"image_id": 230501, "image": "COCO_val2014_000000230501.jpg", "annotations": ["laptop", "cat", "person"]}
+{"image_id": 154515, "image": "COCO_val2014_000000154515.jpg", "annotations": ["bus"]}
+{"image_id": 159608, "image": "COCO_val2014_000000159608.jpg", "annotations": ["bench", "chair", "elephant", "person"]}
+{"image_id": 204670, "image": "COCO_val2014_000000204670.jpg", "annotations": ["vase", "horse"]}
+{"image_id": 344368, "image": "COCO_val2014_000000344368.jpg", "annotations": ["cat"]}
+{"image_id": 338452, "image": "COCO_val2014_000000338452.jpg", "annotations": ["bird"]}
+{"image_id": 328315, "image": "COCO_val2014_000000328315.jpg", "annotations": ["book", "keyboard", "cup", "bottle", "tv"]}
+{"image_id": 347753, "image": "COCO_val2014_000000347753.jpg", "annotations": ["toilet", "sink"]}
+{"image_id": 380802, "image": "COCO_val2014_000000380802.jpg", "annotations": ["handbag", "person", "bench", "truck", "car", "baseball bat"]}
+{"image_id": 280008, "image": "COCO_val2014_000000280008.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 255842, "image": "COCO_val2014_000000255842.jpg", "annotations": ["refrigerator"]}
+{"image_id": 187852, "image": "COCO_val2014_000000187852.jpg", "annotations": ["person", "truck", "cell phone"]}
+{"image_id": 512442, "image": "COCO_val2014_000000512442.jpg", "annotations": ["bowl", "handbag", "elephant", "person", "bench"]}
+{"image_id": 86839, "image": "COCO_val2014_000000086839.jpg", "annotations": ["chair", "bed"]}
+{"image_id": 367386, "image": "COCO_val2014_000000367386.jpg", "annotations": ["book", "dining table", "remote", "cup", "couch", "potted plant", "vase", "chair"]}
+{"image_id": 508605, "image": "COCO_val2014_000000508605.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 203965, "image": "COCO_val2014_000000203965.jpg", "annotations": ["baseball glove", "bench", "baseball bat", "person"]}
+{"image_id": 575428, "image": "COCO_val2014_000000575428.jpg", "annotations": ["person", "tie", "bench", "train"]}
+{"image_id": 239235, "image": "COCO_val2014_000000239235.jpg", "annotations": ["skis", "person"]}
+{"image_id": 24553, "image": "COCO_val2014_000000024553.jpg", "annotations": ["baseball glove", "sports ball", "person"]}
+{"image_id": 525050, "image": "COCO_val2014_000000525050.jpg", "annotations": ["stop sign", "car", "person"]}
+{"image_id": 207557, "image": "COCO_val2014_000000207557.jpg", "annotations": ["car", "cat"]}
+{"image_id": 159240, "image": "COCO_val2014_000000159240.jpg", "annotations": ["toaster", "chair", "book", "tv"]}
+{"image_id": 550805, "image": "COCO_val2014_000000550805.jpg", "annotations": ["motorcycle", "truck", "person"]}
+{"image_id": 345134, "image": "COCO_val2014_000000345134.jpg", "annotations": ["suitcase"]}
+{"image_id": 294621, "image": "COCO_val2014_000000294621.jpg", "annotations": ["tennis racket", "bicycle", "sports ball", "person"]}
+{"image_id": 340386, "image": "COCO_val2014_000000340386.jpg", "annotations": ["bus", "person"]}
+{"image_id": 117674, "image": "COCO_val2014_000000117674.jpg", "annotations": ["handbag", "person", "cell phone", "car", "fire hydrant"]}
+{"image_id": 228644, "image": "COCO_val2014_000000228644.jpg", "annotations": ["remote", "couch", "person"]}
+{"image_id": 431370, "image": "COCO_val2014_000000431370.jpg", "annotations": ["broccoli"]}
+{"image_id": 345068, "image": "COCO_val2014_000000345068.jpg", "annotations": ["bed"]}
+{"image_id": 185593, "image": "COCO_val2014_000000185593.jpg", "annotations": ["bird"]}
+{"image_id": 75055, "image": "COCO_val2014_000000075055.jpg", "annotations": ["cat", "bed", "person"]}
+{"image_id": 455974, "image": "COCO_val2014_000000455974.jpg", "annotations": ["refrigerator"]}
+{"image_id": 1064, "image": "COCO_val2014_000000001064.jpg", "annotations": ["broccoli"]}
+{"image_id": 255482, "image": "COCO_val2014_000000255482.jpg", "annotations": ["airplane"]}
+{"image_id": 324710, "image": "COCO_val2014_000000324710.jpg", "annotations": ["bench", "cup", "sheep", "couch"]}
+{"image_id": 572561, "image": "COCO_val2014_000000572561.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 236717, "image": "COCO_val2014_000000236717.jpg", "annotations": ["truck"]}
+{"image_id": 407225, "image": "COCO_val2014_000000407225.jpg", "annotations": ["bicycle", "umbrella", "bench", "person"]}
+{"image_id": 219192, "image": "COCO_val2014_000000219192.jpg", "annotations": ["tennis racket", "sports ball", "person"]}
+{"image_id": 107800, "image": "COCO_val2014_000000107800.jpg", "annotations": ["handbag", "backpack", "person", "suitcase", "train"]}
+{"image_id": 414560, "image": "COCO_val2014_000000414560.jpg", "annotations": ["cow"]}
+{"image_id": 258541, "image": "COCO_val2014_000000258541.jpg", "annotations": ["tie", "person"]}
+{"image_id": 464144, "image": "COCO_val2014_000000464144.jpg", "annotations": ["skis", "person"]}
+{"image_id": 467285, "image": "COCO_val2014_000000467285.jpg", "annotations": ["baseball bat", "person"]}
+{"image_id": 281759, "image": "COCO_val2014_000000281759.jpg", "annotations": ["umbrella", "truck", "person"]}
+{"image_id": 44579, "image": "COCO_val2014_000000044579.jpg", "annotations": ["cell phone", "person"]}
+{"image_id": 284099, "image": "COCO_val2014_000000284099.jpg", "annotations": ["remote", "dining table", "chair", "person"]}
+{"image_id": 368679, "image": "COCO_val2014_000000368679.jpg", "annotations": ["bowl", "knife", "cup", "banana", "spoon"]}
+{"image_id": 130586, "image": "COCO_val2014_000000130586.jpg", "annotations": ["kite", "person"]}
+{"image_id": 367128, "image": "COCO_val2014_000000367128.jpg", "annotations": ["bottle", "cell phone", "person"]}
+{"image_id": 183144, "image": "COCO_val2014_000000183144.jpg", "annotations": ["handbag", "umbrella", "person"]}
+{"image_id": 494154, "image": "COCO_val2014_000000494154.jpg", "annotations": ["vase", "chair", "couch"]}
+{"image_id": 44068, "image": "COCO_val2014_000000044068.jpg", "annotations": ["chair", "teddy bear"]}
+{"image_id": 332987, "image": "COCO_val2014_000000332987.jpg", "annotations": ["car", "skateboard", "person"]}
+{"image_id": 475295, "image": "COCO_val2014_000000475295.jpg", "annotations": ["donut", "dining table"]}
+{"image_id": 567640, "image": "COCO_val2014_000000567640.jpg", "annotations": ["car", "truck", "sports ball", "person"]}
+{"image_id": 242422, "image": "COCO_val2014_000000242422.jpg", "annotations": ["bowl", "knife", "bottle", "sink", "apple"]}
+{"image_id": 210346, "image": "COCO_val2014_000000210346.jpg", "annotations": ["bird"]}
+{"image_id": 270136, "image": "COCO_val2014_000000270136.jpg", "annotations": ["airplane"]}
+{"image_id": 258985, "image": "COCO_val2014_000000258985.jpg", "annotations": ["toilet", "potted plant"]}
+{"image_id": 478862, "image": "COCO_val2014_000000478862.jpg", "annotations": ["airplane", "person"]}
+{"image_id": 410849, "image": "COCO_val2014_000000410849.jpg", "annotations": ["suitcase"]}
+{"image_id": 40275, "image": "COCO_val2014_000000040275.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 469713, "image": "COCO_val2014_000000469713.jpg", "annotations": ["giraffe"]}
+{"image_id": 359234, "image": "COCO_val2014_000000359234.jpg", "annotations": ["sheep"]}
+{"image_id": 67823, "image": "COCO_val2014_000000067823.jpg", "annotations": ["bicycle", "motorcycle"]}
+{"image_id": 301402, "image": "COCO_val2014_000000301402.jpg", "annotations": ["dining table", "laptop", "person", "potted plant", "bottle", "chair"]}
+{"image_id": 412813, "image": "COCO_val2014_000000412813.jpg", "annotations": ["suitcase", "umbrella", "chair", "person"]}
+{"image_id": 41279, "image": "COCO_val2014_000000041279.jpg", "annotations": ["dining table", "cup", "person", "chair", "pizza"]}
+{"image_id": 566543, "image": "COCO_val2014_000000566543.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 479762, "image": "COCO_val2014_000000479762.jpg", "annotations": ["zebra"]}
+{"image_id": 183676, "image": "COCO_val2014_000000183676.jpg", "annotations": ["bicycle", "surfboard", "person"]}
+{"image_id": 395997, "image": "COCO_val2014_000000395997.jpg", "annotations": ["traffic light", "dog", "person", "truck", "car"]}
+{"image_id": 166259, "image": "COCO_val2014_000000166259.jpg", "annotations": ["bird"]}
+{"image_id": 144062, "image": "COCO_val2014_000000144062.jpg", "annotations": ["book", "toilet"]}
+{"image_id": 447522, "image": "COCO_val2014_000000447522.jpg", "annotations": ["spoon", "dining table", "broccoli"]}
+{"image_id": 482382, "image": "COCO_val2014_000000482382.jpg", "annotations": ["toilet", "person"]}
+{"image_id": 536292, "image": "COCO_val2014_000000536292.jpg", "annotations": ["bear"]}
+{"image_id": 553061, "image": "COCO_val2014_000000553061.jpg", "annotations": ["remote", "person"]}
+{"image_id": 376093, "image": "COCO_val2014_000000376093.jpg", "annotations": ["dining table", "cup", "pizza", "person"]}
+{"image_id": 517386, "image": "COCO_val2014_000000517386.jpg", "annotations": ["bowl", "vase", "cup", "potted plant"]}
+{"image_id": 131919, "image": "COCO_val2014_000000131919.jpg", "annotations": ["bicycle", "handbag", "boat", "person"]}
+{"image_id": 505977, "image": "COCO_val2014_000000505977.jpg", "annotations": ["book", "bed"]}
+{"image_id": 212605, "image": "COCO_val2014_000000212605.jpg", "annotations": ["laptop", "cat", "mouse", "person"]}
+{"image_id": 366316, "image": "COCO_val2014_000000366316.jpg", "annotations": ["elephant"]}
+{"image_id": 106575, "image": "COCO_val2014_000000106575.jpg", "annotations": ["refrigerator", "person"]}
+{"image_id": 557562, "image": "COCO_val2014_000000557562.jpg", "annotations": ["tie", "refrigerator", "person"]}
+{"image_id": 491757, "image": "COCO_val2014_000000491757.jpg", "annotations": ["cat", "bed"]}
+{"image_id": 119709, "image": "COCO_val2014_000000119709.jpg", "annotations": ["donut", "dining table", "chair", "person"]}
+{"image_id": 39390, "image": "COCO_val2014_000000039390.jpg", "annotations": ["zebra"]}
+{"image_id": 494852, "image": "COCO_val2014_000000494852.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 522941, "image": "COCO_val2014_000000522941.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 74446, "image": "COCO_val2014_000000074446.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 562243, "image": "COCO_val2014_000000562243.jpg", "annotations": ["tie", "person"]}
+{"image_id": 246077, "image": "COCO_val2014_000000246077.jpg", "annotations": ["teddy bear"]}
+{"image_id": 470909, "image": "COCO_val2014_000000470909.jpg", "annotations": ["dining table", "clock", "chair", "book"]}
+{"image_id": 460160, "image": "COCO_val2014_000000460160.jpg", "annotations": ["bird"]}
+{"image_id": 312772, "image": "COCO_val2014_000000312772.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 360910, "image": "COCO_val2014_000000360910.jpg", "annotations": ["giraffe"]}
+{"image_id": 368541, "image": "COCO_val2014_000000368541.jpg", "annotations": ["handbag", "backpack", "person", "suitcase", "bottle", "truck", "airplane"]}
+{"image_id": 579362, "image": "COCO_val2014_000000579362.jpg", "annotations": ["bench", "boat", "person"]}
+{"image_id": 395379, "image": "COCO_val2014_000000395379.jpg", "annotations": ["oven", "knife", "cup", "bottle", "microwave", "refrigerator"]}
+{"image_id": 260266, "image": "COCO_val2014_000000260266.jpg", "annotations": ["traffic light", "car"]}
+{"image_id": 471737, "image": "COCO_val2014_000000471737.jpg", "annotations": ["person", "train"]}
+{"image_id": 396209, "image": "COCO_val2014_000000396209.jpg", "annotations": ["motorcycle", "chair", "potted plant"]}
+{"image_id": 356906, "image": "COCO_val2014_000000356906.jpg", "annotations": ["toilet", "chair"]}
+{"image_id": 537280, "image": "COCO_val2014_000000537280.jpg", "annotations": ["umbrella", "car", "person"]}
+{"image_id": 276616, "image": "COCO_val2014_000000276616.jpg", "annotations": ["wine glass", "person"]}
+{"image_id": 130437, "image": "COCO_val2014_000000130437.jpg", "annotations": ["car", "train"]}
+{"image_id": 577821, "image": "COCO_val2014_000000577821.jpg", "annotations": ["clock"]}
+{"image_id": 452891, "image": "COCO_val2014_000000452891.jpg", "annotations": ["bench", "dog"]}
+{"image_id": 80096, "image": "COCO_val2014_000000080096.jpg", "annotations": ["train"]}
+{"image_id": 580983, "image": "COCO_val2014_000000580983.jpg", "annotations": ["bench", "skateboard", "person"]}
+{"image_id": 117543, "image": "COCO_val2014_000000117543.jpg", "annotations": ["airplane"]}
+{"image_id": 499842, "image": "COCO_val2014_000000499842.jpg", "annotations": ["keyboard", "laptop", "mouse", "tv"]}
+{"image_id": 185046, "image": "COCO_val2014_000000185046.jpg", "annotations": ["bowl", "knife", "dining table", "cup", "bottle", "spoon"]}
+{"image_id": 350457, "image": "COCO_val2014_000000350457.jpg", "annotations": ["person", "bench", "donut", "potted plant"]}
+{"image_id": 36773, "image": "COCO_val2014_000000036773.jpg", "annotations": ["tennis racket", "sports ball", "person"]}
+{"image_id": 429109, "image": "COCO_val2014_000000429109.jpg", "annotations": ["bicycle", "bus", "person", "car", "train"]}
+{"image_id": 19167, "image": "COCO_val2014_000000019167.jpg", "annotations": ["bowl", "orange"]}
+{"image_id": 561047, "image": "COCO_val2014_000000561047.jpg", "annotations": ["umbrella", "boat", "chair"]}
+{"image_id": 6028, "image": "COCO_val2014_000000006028.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 443591, "image": "COCO_val2014_000000443591.jpg", "annotations": ["zebra"]}
+{"image_id": 167479, "image": "COCO_val2014_000000167479.jpg", "annotations": ["giraffe", "zebra"]}
+{"image_id": 148739, "image": "COCO_val2014_000000148739.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 44612, "image": "COCO_val2014_000000044612.jpg", "annotations": ["horse", "person"]}
+{"image_id": 272253, "image": "COCO_val2014_000000272253.jpg", "annotations": ["oven", "cup", "refrigerator", "person"]}
+{"image_id": 555180, "image": "COCO_val2014_000000555180.jpg", "annotations": ["train"]}
+{"image_id": 184698, "image": "COCO_val2014_000000184698.jpg", "annotations": ["giraffe"]}
+{"image_id": 304545, "image": "COCO_val2014_000000304545.jpg", "annotations": ["suitcase"]}
+{"image_id": 60792, "image": "COCO_val2014_000000060792.jpg", "annotations": ["keyboard", "cat", "tv"]}
+{"image_id": 353808, "image": "COCO_val2014_000000353808.jpg", "annotations": ["sandwich", "dining table", "cell phone"]}
+{"image_id": 28692, "image": "COCO_val2014_000000028692.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 401907, "image": "COCO_val2014_000000401907.jpg", "annotations": ["fire hydrant", "potted plant"]}
+{"image_id": 409331, "image": "COCO_val2014_000000409331.jpg", "annotations": ["umbrella", "clock", "book", "person"]}
+{"image_id": 140785, "image": "COCO_val2014_000000140785.jpg", "annotations": ["person", "umbrella", "surfboard"]}
+{"image_id": 65170, "image": "COCO_val2014_000000065170.jpg", "annotations": ["bench", "person"]}
+{"image_id": 445313, "image": "COCO_val2014_000000445313.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 540932, "image": "COCO_val2014_000000540932.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 396200, "image": "COCO_val2014_000000396200.jpg", "annotations": ["traffic light", "person", "truck", "car", "skateboard", "sports ball"]}
+{"image_id": 245112, "image": "COCO_val2014_000000245112.jpg", "annotations": ["toothbrush"]}
+{"image_id": 366199, "image": "COCO_val2014_000000366199.jpg", "annotations": ["cat", "bed"]}
+{"image_id": 449945, "image": "COCO_val2014_000000449945.jpg", "annotations": ["bottle", "sink"]}
+{"image_id": 177069, "image": "COCO_val2014_000000177069.jpg", "annotations": ["boat", "person"]}
+{"image_id": 133556, "image": "COCO_val2014_000000133556.jpg", "annotations": ["baseball glove", "tie", "baseball bat", "person"]}
+{"image_id": 251064, "image": "COCO_val2014_000000251064.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 149767, "image": "COCO_val2014_000000149767.jpg", "annotations": ["truck"]}
+{"image_id": 268710, "image": "COCO_val2014_000000268710.jpg", "annotations": ["zebra"]}
+{"image_id": 224647, "image": "COCO_val2014_000000224647.jpg", "annotations": ["tennis racket", "sports ball", "person"]}
+{"image_id": 560637, "image": "COCO_val2014_000000560637.jpg", "annotations": ["horse"]}
+{"image_id": 157756, "image": "COCO_val2014_000000157756.jpg", "annotations": ["bicycle", "handbag", "traffic light", "person", "clock", "car", "truck"]}
+{"image_id": 543577, "image": "COCO_val2014_000000543577.jpg", "annotations": ["person", "backpack", "train"]}
+{"image_id": 21900, "image": "COCO_val2014_000000021900.jpg", "annotations": ["horse", "person"]}
+{"image_id": 158494, "image": "COCO_val2014_000000158494.jpg", "annotations": ["giraffe"]}
+{"image_id": 63328, "image": "COCO_val2014_000000063328.jpg", "annotations": ["truck", "horse", "car", "person"]}
+{"image_id": 180541, "image": "COCO_val2014_000000180541.jpg", "annotations": ["bus", "car"]}
+{"image_id": 268742, "image": "COCO_val2014_000000268742.jpg", "annotations": ["bowl", "vase", "potted plant"]}
+{"image_id": 42685, "image": "COCO_val2014_000000042685.jpg", "annotations": ["bowl", "cup", "person", "cell phone", "bed", "pizza"]}
+{"image_id": 398652, "image": "COCO_val2014_000000398652.jpg", "annotations": ["dining table", "potted plant"]}
+{"image_id": 165713, "image": "COCO_val2014_000000165713.jpg", "annotations": ["fire hydrant"]}
+{"image_id": 311015, "image": "COCO_val2014_000000311015.jpg", "annotations": ["baseball glove", "sports ball", "person"]}
+{"image_id": 985, "image": "COCO_val2014_000000000985.jpg", "annotations": ["chair", "bus", "person"]}
+{"image_id": 278306, "image": "COCO_val2014_000000278306.jpg", "annotations": ["bird"]}
+{"image_id": 161772, "image": "COCO_val2014_000000161772.jpg", "annotations": ["dining table", "apple", "pizza"]}
+{"image_id": 349559, "image": "COCO_val2014_000000349559.jpg", "annotations": ["backpack", "car", "skateboard", "person"]}
+{"image_id": 93353, "image": "COCO_val2014_000000093353.jpg", "annotations": ["book", "chair", "hot dog", "person"]}
+{"image_id": 169712, "image": "COCO_val2014_000000169712.jpg", "annotations": ["truck"]}
+{"image_id": 121157, "image": "COCO_val2014_000000121157.jpg", "annotations": ["keyboard", "tv", "mouse", "cell phone"]}
+{"image_id": 364699, "image": "COCO_val2014_000000364699.jpg", "annotations": ["vase"]}
+{"image_id": 534639, "image": "COCO_val2014_000000534639.jpg", "annotations": ["traffic light", "car", "train"]}
+{"image_id": 405279, "image": "COCO_val2014_000000405279.jpg", "annotations": ["bench", "kite", "person"]}
+{"image_id": 574804, "image": "COCO_val2014_000000574804.jpg", "annotations": ["bench", "skis", "snowboard", "person"]}
+{"image_id": 39322, "image": "COCO_val2014_000000039322.jpg", "annotations": ["kite", "bus", "person", "truck", "car"]}
+{"image_id": 438185, "image": "COCO_val2014_000000438185.jpg", "annotations": ["airplane", "truck", "person"]}
+{"image_id": 230983, "image": "COCO_val2014_000000230983.jpg", "annotations": ["car", "skateboard", "person"]}
+{"image_id": 399703, "image": "COCO_val2014_000000399703.jpg", "annotations": ["car", "fire hydrant"]}
+{"image_id": 167656, "image": "COCO_val2014_000000167656.jpg", "annotations": ["tennis racket", "clock", "sports ball", "person"]}
+{"image_id": 485887, "image": "COCO_val2014_000000485887.jpg", "annotations": ["bicycle", "bus", "person", "tie", "clock", "car"]}
+{"image_id": 378327, "image": "COCO_val2014_000000378327.jpg", "annotations": ["knife"]}
+{"image_id": 19333, "image": "COCO_val2014_000000019333.jpg", "annotations": ["book", "handbag", "cell phone"]}
+{"image_id": 536426, "image": "COCO_val2014_000000536426.jpg", "annotations": ["car", "fire hydrant"]}
+{"image_id": 101223, "image": "COCO_val2014_000000101223.jpg", "annotations": ["airplane"]}
+{"image_id": 150347, "image": "COCO_val2014_000000150347.jpg", "annotations": ["bed"]}
+{"image_id": 553471, "image": "COCO_val2014_000000553471.jpg", "annotations": ["clock"]}
+{"image_id": 302823, "image": "COCO_val2014_000000302823.jpg", "annotations": ["book", "dining table", "knife", "cup", "donut", "bottle"]}
+{"image_id": 82488, "image": "COCO_val2014_000000082488.jpg", "annotations": ["remote", "clock", "book", "bed"]}
+{"image_id": 331366, "image": "COCO_val2014_000000331366.jpg", "annotations": ["bicycle", "umbrella", "person", "truck", "car"]}
+{"image_id": 63950, "image": "COCO_val2014_000000063950.jpg", "annotations": ["toilet", "sink", "cat"]}
+{"image_id": 490620, "image": "COCO_val2014_000000490620.jpg", "annotations": ["dining table", "pizza", "person"]}
+{"image_id": 14975, "image": "COCO_val2014_000000014975.jpg", "annotations": ["person", "tie", "potted plant"]}
+{"image_id": 56752, "image": "COCO_val2014_000000056752.jpg", "annotations": ["bicycle", "backpack", "person"]}
+{"image_id": 316237, "image": "COCO_val2014_000000316237.jpg", "annotations": ["person", "handbag", "cell phone"]}
+{"image_id": 227855, "image": "COCO_val2014_000000227855.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 160308, "image": "COCO_val2014_000000160308.jpg", "annotations": ["clock", "truck"]}
+{"image_id": 55126, "image": "COCO_val2014_000000055126.jpg", "annotations": ["dog", "boat", "person"]}
+{"image_id": 98095, "image": "COCO_val2014_000000098095.jpg", "annotations": ["person", "remote", "couch", "cell phone"]}
+{"image_id": 47367, "image": "COCO_val2014_000000047367.jpg", "annotations": ["dog", "fire hydrant"]}
+{"image_id": 463360, "image": "COCO_val2014_000000463360.jpg", "annotations": ["handbag", "dining table", "potted plant", "suitcase", "tv", "chair", "mouse"]}
+{"image_id": 197352, "image": "COCO_val2014_000000197352.jpg", "annotations": ["dog", "boat", "person"]}
+{"image_id": 507361, "image": "COCO_val2014_000000507361.jpg", "annotations": ["bottle"]}
+{"image_id": 288076, "image": "COCO_val2014_000000288076.jpg", "annotations": ["cow"]}
+{"image_id": 543224, "image": "COCO_val2014_000000543224.jpg", "annotations": ["sandwich", "dining table", "hot dog"]}
+{"image_id": 393864, "image": "COCO_val2014_000000393864.jpg", "annotations": ["spoon", "knife", "dining table", "pizza"]}
+{"image_id": 506310, "image": "COCO_val2014_000000506310.jpg", "annotations": ["bottle", "refrigerator"]}
+{"image_id": 304044, "image": "COCO_val2014_000000304044.jpg", "annotations": ["traffic light", "bus", "car", "person"]}
+{"image_id": 530337, "image": "COCO_val2014_000000530337.jpg", "annotations": ["tennis racket", "sports ball", "person"]}
+{"image_id": 345353, "image": "COCO_val2014_000000345353.jpg", "annotations": ["bowl", "sandwich", "dining table", "cup", "fork", "person", "spoon"]}
+{"image_id": 299734, "image": "COCO_val2014_000000299734.jpg", "annotations": ["frisbee", "car", "person"]}
+{"image_id": 581180, "image": "COCO_val2014_000000581180.jpg", "annotations": ["bench"]}
+{"image_id": 212288, "image": "COCO_val2014_000000212288.jpg", "annotations": ["traffic light", "fire hydrant", "truck", "person"]}
+{"image_id": 154173, "image": "COCO_val2014_000000154173.jpg", "annotations": ["elephant"]}
+{"image_id": 49633, "image": "COCO_val2014_000000049633.jpg", "annotations": ["bird"]}
+{"image_id": 293044, "image": "COCO_val2014_000000293044.jpg", "annotations": ["spoon", "sandwich", "dining table", "carrot"]}
+{"image_id": 355569, "image": "COCO_val2014_000000355569.jpg", "annotations": ["motorcycle", "person", "cell phone", "truck", "car"]}
+{"image_id": 375285, "image": "COCO_val2014_000000375285.jpg", "annotations": ["surfboard", "backpack", "person"]}
+{"image_id": 351930, "image": "COCO_val2014_000000351930.jpg", "annotations": ["airplane", "person"]}
+{"image_id": 46263, "image": "COCO_val2014_000000046263.jpg", "annotations": ["car"]}
+{"image_id": 43261, "image": "COCO_val2014_000000043261.jpg", "annotations": ["bowl", "dining table", "fork", "person"]}
+{"image_id": 99928, "image": "COCO_val2014_000000099928.jpg", "annotations": ["sheep"]}
+{"image_id": 578485, "image": "COCO_val2014_000000578485.jpg", "annotations": ["oven"]}
+{"image_id": 128907, "image": "COCO_val2014_000000128907.jpg", "annotations": ["traffic light"]}
+{"image_id": 465822, "image": "COCO_val2014_000000465822.jpg", "annotations": ["laptop", "person", "potted plant", "bottle", "clock", "chair"]}
+{"image_id": 8495, "image": "COCO_val2014_000000008495.jpg", "annotations": ["skis", "person"]}
+{"image_id": 420330, "image": "COCO_val2014_000000420330.jpg", "annotations": ["dining table", "pizza"]}
+{"image_id": 323853, "image": "COCO_val2014_000000323853.jpg", "annotations": ["apple"]}
+{"image_id": 370513, "image": "COCO_val2014_000000370513.jpg", "annotations": ["keyboard", "laptop", "cup", "cell phone", "tv", "chair", "mouse"]}
+{"image_id": 356528, "image": "COCO_val2014_000000356528.jpg", "annotations": ["laptop", "cup", "tv", "person"]}
+{"image_id": 42856, "image": "COCO_val2014_000000042856.jpg", "annotations": ["dog", "couch"]}
+{"image_id": 163575, "image": "COCO_val2014_000000163575.jpg", "annotations": ["dog", "bed", "person"]}
+{"image_id": 374947, "image": "COCO_val2014_000000374947.jpg", "annotations": ["stop sign"]}
+{"image_id": 347453, "image": "COCO_val2014_000000347453.jpg", "annotations": ["traffic light", "bench", "bus", "person"]}
+{"image_id": 494855, "image": "COCO_val2014_000000494855.jpg", "annotations": ["baseball glove", "sports ball", "baseball bat", "person"]}
+{"image_id": 341487, "image": "COCO_val2014_000000341487.jpg", "annotations": ["handbag", "truck", "person"]}
+{"image_id": 552247, "image": "COCO_val2014_000000552247.jpg", "annotations": ["sports ball", "tennis racket", "backpack", "person"]}
+{"image_id": 257767, "image": "COCO_val2014_000000257767.jpg", "annotations": ["keyboard", "mouse", "tv"]}
+{"image_id": 450849, "image": "COCO_val2014_000000450849.jpg", "annotations": ["clock"]}
+{"image_id": 260627, "image": "COCO_val2014_000000260627.jpg", "annotations": ["person", "bicycle", "car", "train"]}
+{"image_id": 81484, "image": "COCO_val2014_000000081484.jpg", "annotations": ["sandwich", "dining table", "carrot", "pizza"]}
+{"image_id": 217228, "image": "COCO_val2014_000000217228.jpg", "annotations": ["zebra"]}
+{"image_id": 409646, "image": "COCO_val2014_000000409646.jpg", "annotations": ["bear"]}
+{"image_id": 170072, "image": "COCO_val2014_000000170072.jpg", "annotations": ["traffic light", "car", "backpack", "person"]}
+{"image_id": 23320, "image": "COCO_val2014_000000023320.jpg", "annotations": ["knife", "fork", "mouse", "cake"]}
+{"image_id": 229020, "image": "COCO_val2014_000000229020.jpg", "annotations": ["mouse", "cup", "tv", "keyboard"]}
+{"image_id": 354369, "image": "COCO_val2014_000000354369.jpg", "annotations": ["book"]}
+{"image_id": 256260, "image": "COCO_val2014_000000256260.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 465324, "image": "COCO_val2014_000000465324.jpg", "annotations": ["elephant"]}
+{"image_id": 302806, "image": "COCO_val2014_000000302806.jpg", "annotations": ["oven", "knife", "cup", "bottle", "microwave"]}
+{"image_id": 127702, "image": "COCO_val2014_000000127702.jpg", "annotations": ["person", "skis", "backpack", "cell phone"]}
+{"image_id": 298362, "image": "COCO_val2014_000000298362.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 129159, "image": "COCO_val2014_000000129159.jpg", "annotations": ["bird", "clock", "person"]}
+{"image_id": 121143, "image": "COCO_val2014_000000121143.jpg", "annotations": ["traffic light", "clock", "car", "stop sign"]}
+{"image_id": 279343, "image": "COCO_val2014_000000279343.jpg", "annotations": ["airplane"]}
+{"image_id": 67896, "image": "COCO_val2014_000000067896.jpg", "annotations": ["clock"]}
+{"image_id": 315705, "image": "COCO_val2014_000000315705.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 402118, "image": "COCO_val2014_000000402118.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 430259, "image": "COCO_val2014_000000430259.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 461123, "image": "COCO_val2014_000000461123.jpg", "annotations": ["airplane", "truck", "car"]}
+{"image_id": 4069, "image": "COCO_val2014_000000004069.jpg", "annotations": ["bicycle", "handbag", "backpack", "person"]}
+{"image_id": 153570, "image": "COCO_val2014_000000153570.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 514685, "image": "COCO_val2014_000000514685.jpg", "annotations": ["frisbee", "dog", "truck", "car"]}
+{"image_id": 219848, "image": "COCO_val2014_000000219848.jpg", "annotations": ["boat", "person"]}
+{"image_id": 258136, "image": "COCO_val2014_000000258136.jpg", "annotations": ["train"]}
+{"image_id": 550055, "image": "COCO_val2014_000000550055.jpg", "annotations": ["bus", "person", "truck", "car", "airplane"]}
+{"image_id": 483375, "image": "COCO_val2014_000000483375.jpg", "annotations": ["boat", "truck"]}
+{"image_id": 59501, "image": "COCO_val2014_000000059501.jpg", "annotations": ["tie", "cup", "cat"]}
+{"image_id": 574928, "image": "COCO_val2014_000000574928.jpg", "annotations": ["sheep"]}
+{"image_id": 104619, "image": "COCO_val2014_000000104619.jpg", "annotations": ["giraffe"]}
+{"image_id": 64183, "image": "COCO_val2014_000000064183.jpg", "annotations": ["umbrella", "fire hydrant", "car", "person"]}
+{"image_id": 510842, "image": "COCO_val2014_000000510842.jpg", "annotations": ["bench", "bus", "person"]}
+{"image_id": 399516, "image": "COCO_val2014_000000399516.jpg", "annotations": ["donut", "dining table"]}
+{"image_id": 372641, "image": "COCO_val2014_000000372641.jpg", "annotations": ["keyboard", "laptop", "cell phone", "tv", "mouse"]}
+{"image_id": 71302, "image": "COCO_val2014_000000071302.jpg", "annotations": ["handbag", "book", "cup", "person", "clock", "bed"]}
+{"image_id": 201887, "image": "COCO_val2014_000000201887.jpg", "annotations": ["truck", "car"]}
+{"image_id": 520237, "image": "COCO_val2014_000000520237.jpg", "annotations": ["person", "umbrella", "chair", "potted plant"]}
+{"image_id": 413551, "image": "COCO_val2014_000000413551.jpg", "annotations": ["bowl", "knife", "dining table", "fork", "donut", "cake", "spoon"]}
+{"image_id": 224322, "image": "COCO_val2014_000000224322.jpg", "annotations": ["motorcycle", "person"]}
+{"image_id": 177539, "image": "COCO_val2014_000000177539.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 431896, "image": "COCO_val2014_000000431896.jpg", "annotations": ["train"]}
+{"image_id": 206613, "image": "COCO_val2014_000000206613.jpg", "annotations": ["baseball glove", "sports ball", "baseball bat", "person"]}
+{"image_id": 52087, "image": "COCO_val2014_000000052087.jpg", "annotations": ["toilet", "person"]}
+{"image_id": 261273, "image": "COCO_val2014_000000261273.jpg", "annotations": ["stop sign"]}
+{"image_id": 259112, "image": "COCO_val2014_000000259112.jpg", "annotations": ["cat", "bed"]}
+{"image_id": 498610, "image": "COCO_val2014_000000498610.jpg", "annotations": ["giraffe"]}
+{"image_id": 467973, "image": "COCO_val2014_000000467973.jpg", "annotations": ["dining table", "bottle", "wine glass", "chair"]}
+{"image_id": 388042, "image": "COCO_val2014_000000388042.jpg", "annotations": ["truck", "microwave"]}
+{"image_id": 100539, "image": "COCO_val2014_000000100539.jpg", "annotations": ["bicycle", "truck", "chair", "person"]}
+{"image_id": 76034, "image": "COCO_val2014_000000076034.jpg", "annotations": ["book", "bed", "person"]}
+{"image_id": 471013, "image": "COCO_val2014_000000471013.jpg", "annotations": ["car", "hot dog", "person"]}
+{"image_id": 554928, "image": "COCO_val2014_000000554928.jpg", "annotations": ["skis", "person"]}
+{"image_id": 300725, "image": "COCO_val2014_000000300725.jpg", "annotations": ["bench", "bird"]}
+{"image_id": 255096, "image": "COCO_val2014_000000255096.jpg", "annotations": ["bus", "person", "potted plant", "truck", "airplane"]}
+{"image_id": 512780, "image": "COCO_val2014_000000512780.jpg", "annotations": ["person", "tie", "cell phone"]}
+{"image_id": 23696, "image": "COCO_val2014_000000023696.jpg", "annotations": ["toilet"]}
+{"image_id": 150487, "image": "COCO_val2014_000000150487.jpg", "annotations": ["motorcycle"]}
+{"image_id": 309843, "image": "COCO_val2014_000000309843.jpg", "annotations": ["dog", "surfboard"]}
+{"image_id": 528458, "image": "COCO_val2014_000000528458.jpg", "annotations": ["horse", "person"]}
+{"image_id": 43435, "image": "COCO_val2014_000000043435.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 264619, "image": "COCO_val2014_000000264619.jpg", "annotations": ["surfboard", "kite", "person"]}
+{"image_id": 400062, "image": "COCO_val2014_000000400062.jpg", "annotations": ["frisbee", "bench", "person"]}
+{"image_id": 191842, "image": "COCO_val2014_000000191842.jpg", "annotations": ["tv", "person"]}
+{"image_id": 363581, "image": "COCO_val2014_000000363581.jpg", "annotations": ["knife", "cup", "fork", "person", "bench", "stop sign", "car", "pizza"]}
+{"image_id": 65244, "image": "COCO_val2014_000000065244.jpg", "annotations": ["toothbrush", "person"]}
+{"image_id": 205206, "image": "COCO_val2014_000000205206.jpg", "annotations": ["traffic light", "train"]}
+{"image_id": 43404, "image": "COCO_val2014_000000043404.jpg", "annotations": ["clock", "car", "person"]}
+{"image_id": 513615, "image": "COCO_val2014_000000513615.jpg", "annotations": ["airplane", "person"]}
+{"image_id": 32203, "image": "COCO_val2014_000000032203.jpg", "annotations": ["motorcycle", "person"]}
+{"image_id": 335844, "image": "COCO_val2014_000000335844.jpg", "annotations": ["cup", "microwave", "pizza"]}
+{"image_id": 113533, "image": "COCO_val2014_000000113533.jpg", "annotations": ["knife", "dining table", "cup", "person", "tie", "cake", "chair"]}
+{"image_id": 480140, "image": "COCO_val2014_000000480140.jpg", "annotations": ["handbag", "bus", "traffic light", "person", "car"]}
+{"image_id": 98590, "image": "COCO_val2014_000000098590.jpg", "annotations": ["skis", "stop sign", "person"]}
+{"image_id": 299493, "image": "COCO_val2014_000000299493.jpg", "annotations": ["bus", "truck", "car", "person"]}
+{"image_id": 134558, "image": "COCO_val2014_000000134558.jpg", "annotations": ["sports ball", "tennis racket", "person"]}
+{"image_id": 235595, "image": "COCO_val2014_000000235595.jpg", "annotations": ["motorcycle", "cup", "person", "potted plant", "car", "parking meter"]}
+{"image_id": 285646, "image": "COCO_val2014_000000285646.jpg", "annotations": ["apple"]}
+{"image_id": 141795, "image": "COCO_val2014_000000141795.jpg", "annotations": ["handbag", "toothbrush", "toilet", "sink"]}
+{"image_id": 331307, "image": "COCO_val2014_000000331307.jpg", "annotations": ["vase", "bird", "potted plant"]}
+{"image_id": 487428, "image": "COCO_val2014_000000487428.jpg", "annotations": ["motorcycle", "bus", "person", "truck", "car"]}
+{"image_id": 12764, "image": "COCO_val2014_000000012764.jpg", "annotations": ["dog", "sports ball", "cat"]}
+{"image_id": 366499, "image": "COCO_val2014_000000366499.jpg", "annotations": ["spoon", "book", "pizza", "cell phone"]}
+{"image_id": 64621, "image": "COCO_val2014_000000064621.jpg", "annotations": ["stop sign", "horse", "person"]}
+{"image_id": 205103, "image": "COCO_val2014_000000205103.jpg", "annotations": ["cat"]}
+{"image_id": 43635, "image": "COCO_val2014_000000043635.jpg", "annotations": ["handbag", "backpack", "person", "cell phone", "tie", "clock"]}
+{"image_id": 101491, "image": "COCO_val2014_000000101491.jpg", "annotations": ["suitcase", "handbag", "stop sign", "person"]}
+{"image_id": 567636, "image": "COCO_val2014_000000567636.jpg", "annotations": ["bowl", "oven", "person", "potted plant", "bottle", "banana", "microwave", "vase", "sink"]}
+{"image_id": 137501, "image": "COCO_val2014_000000137501.jpg", "annotations": ["skis", "person"]}
+{"image_id": 138784, "image": "COCO_val2014_000000138784.jpg", "annotations": ["train"]}
+{"image_id": 575921, "image": "COCO_val2014_000000575921.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 456192, "image": "COCO_val2014_000000456192.jpg", "annotations": ["elephant"]}
+{"image_id": 546980, "image": "COCO_val2014_000000546980.jpg", "annotations": ["sheep"]}
+{"image_id": 331856, "image": "COCO_val2014_000000331856.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 172279, "image": "COCO_val2014_000000172279.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 13127, "image": "COCO_val2014_000000013127.jpg", "annotations": ["train", "person"]}
+{"image_id": 306395, "image": "COCO_val2014_000000306395.jpg", "annotations": ["dog", "cat", "bed"]}
+{"image_id": 344897, "image": "COCO_val2014_000000344897.jpg", "annotations": ["cow"]}
+{"image_id": 499922, "image": "COCO_val2014_000000499922.jpg", "annotations": ["donut", "dining table"]}
+{"image_id": 478407, "image": "COCO_val2014_000000478407.jpg", "annotations": ["bowl", "sandwich", "dining table", "cup", "fork", "hot dog", "person", "tv", "pizza"]}
+{"image_id": 408469, "image": "COCO_val2014_000000408469.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 278172, "image": "COCO_val2014_000000278172.jpg", "annotations": ["book", "dining table", "cup", "hot dog", "person", "bottle", "chair"]}
+{"image_id": 253441, "image": "COCO_val2014_000000253441.jpg", "annotations": ["toilet", "sink"]}
+{"image_id": 132719, "image": "COCO_val2014_000000132719.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 581394, "image": "COCO_val2014_000000581394.jpg", "annotations": ["bicycle", "bus", "backpack", "person", "suitcase", "truck"]}
+{"image_id": 402609, "image": "COCO_val2014_000000402609.jpg", "annotations": ["vase", "dining table", "chair", "potted plant"]}
+{"image_id": 147685, "image": "COCO_val2014_000000147685.jpg", "annotations": ["bottle", "pizza", "person"]}
+{"image_id": 420882, "image": "COCO_val2014_000000420882.jpg", "annotations": ["bicycle", "bench", "person"]}
+{"image_id": 11625, "image": "COCO_val2014_000000011625.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 514901, "image": "COCO_val2014_000000514901.jpg", "annotations": ["knife", "cake"]}
+{"image_id": 335233, "image": "COCO_val2014_000000335233.jpg", "annotations": ["book", "laptop", "cup", "backpack", "cell phone"]}
+{"image_id": 513056, "image": "COCO_val2014_000000513056.jpg", "annotations": ["bear"]}
+{"image_id": 409098, "image": "COCO_val2014_000000409098.jpg", "annotations": ["giraffe"]}
+{"image_id": 531510, "image": "COCO_val2014_000000531510.jpg", "annotations": ["bottle", "laptop", "knife", "person"]}
+{"image_id": 107360, "image": "COCO_val2014_000000107360.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 468954, "image": "COCO_val2014_000000468954.jpg", "annotations": ["remote", "couch", "person"]}
+{"image_id": 525286, "image": "COCO_val2014_000000525286.jpg", "annotations": ["clock"]}
+{"image_id": 106901, "image": "COCO_val2014_000000106901.jpg", "annotations": ["bench"]}
+{"image_id": 243777, "image": "COCO_val2014_000000243777.jpg", "annotations": ["laptop", "cup", "person", "cell phone", "truck", "airplane"]}
+{"image_id": 276596, "image": "COCO_val2014_000000276596.jpg", "annotations": ["handbag", "backpack", "person", "suitcase", "tie", "train"]}
+{"image_id": 565761, "image": "COCO_val2014_000000565761.jpg", "annotations": ["cup", "laptop", "potted plant", "person", "tie", "tv", "chair"]}
+{"image_id": 557916, "image": "COCO_val2014_000000557916.jpg", "annotations": ["vase", "teddy bear", "bed", "person"]}
+{"image_id": 278822, "image": "COCO_val2014_000000278822.jpg", "annotations": ["dining table", "cup", "laptop", "backpack", "person", "cell phone", "donut", "bottle", "tv", "chair"]}
+{"image_id": 544565, "image": "COCO_val2014_000000544565.jpg", "annotations": ["spoon", "knife", "dining table", "orange"]}
+{"image_id": 69842, "image": "COCO_val2014_000000069842.jpg", "annotations": ["train"]}
+{"image_id": 134255, "image": "COCO_val2014_000000134255.jpg", "annotations": ["car", "bus"]}
+{"image_id": 91406, "image": "COCO_val2014_000000091406.jpg", "annotations": ["book", "dining table", "knife", "person", "tv", "chair", "pizza"]}
+{"image_id": 505133, "image": "COCO_val2014_000000505133.jpg", "annotations": ["bowl", "oven", "cup", "carrot", "fork", "bottle"]}
+{"image_id": 312306, "image": "COCO_val2014_000000312306.jpg", "annotations": ["cow", "sheep"]}
+{"image_id": 151299, "image": "COCO_val2014_000000151299.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 383033, "image": "COCO_val2014_000000383033.jpg", "annotations": ["bird"]}
+{"image_id": 67704, "image": "COCO_val2014_000000067704.jpg", "annotations": ["train"]}
+{"image_id": 495048, "image": "COCO_val2014_000000495048.jpg", "annotations": ["dog", "truck", "bird", "surfboard"]}
+{"image_id": 84643, "image": "COCO_val2014_000000084643.jpg", "annotations": ["elephant"]}
+{"image_id": 60246, "image": "COCO_val2014_000000060246.jpg", "annotations": ["knife", "wine glass", "dining table", "person", "tie", "cake", "chair"]}
+{"image_id": 81691, "image": "COCO_val2014_000000081691.jpg", "annotations": ["bicycle", "skateboard", "person"]}
+{"image_id": 442536, "image": "COCO_val2014_000000442536.jpg", "annotations": ["zebra"]}
+{"image_id": 192153, "image": "COCO_val2014_000000192153.jpg", "annotations": ["bench"]}
+{"image_id": 237984, "image": "COCO_val2014_000000237984.jpg", "annotations": ["bench", "chair"]}
+{"image_id": 332221, "image": "COCO_val2014_000000332221.jpg", "annotations": ["handbag", "motorcycle", "umbrella", "traffic light", "person"]}
+{"image_id": 456578, "image": "COCO_val2014_000000456578.jpg", "annotations": ["pizza", "person"]}
+{"image_id": 354072, "image": "COCO_val2014_000000354072.jpg", "annotations": ["bottle", "sink", "potted plant"]}
+{"image_id": 402795, "image": "COCO_val2014_000000402795.jpg", "annotations": ["handbag", "backpack", "person", "cell phone", "chair"]}
+{"image_id": 561042, "image": "COCO_val2014_000000561042.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 125853, "image": "COCO_val2014_000000125853.jpg", "annotations": ["elephant"]}
+{"image_id": 160126, "image": "COCO_val2014_000000160126.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 172843, "image": "COCO_val2014_000000172843.jpg", "annotations": ["toilet"]}
+{"image_id": 398174, "image": "COCO_val2014_000000398174.jpg", "annotations": ["person", "bench", "cell phone"]}
+{"image_id": 318405, "image": "COCO_val2014_000000318405.jpg", "annotations": ["spoon", "bowl"]}
+{"image_id": 131494, "image": "COCO_val2014_000000131494.jpg", "annotations": ["motorcycle", "car", "parking meter", "person"]}
+{"image_id": 251531, "image": "COCO_val2014_000000251531.jpg", "annotations": ["bowl", "knife", "wine glass", "dining table", "fork", "bottle", "spoon", "broccoli"]}
+{"image_id": 207860, "image": "COCO_val2014_000000207860.jpg", "annotations": ["car", "zebra", "person"]}
+{"image_id": 99242, "image": "COCO_val2014_000000099242.jpg", "annotations": ["skis", "person"]}
+{"image_id": 247806, "image": "COCO_val2014_000000247806.jpg", "annotations": ["clock"]}
+{"image_id": 150013, "image": "COCO_val2014_000000150013.jpg", "annotations": ["bench"]}
+{"image_id": 488755, "image": "COCO_val2014_000000488755.jpg", "annotations": ["skis", "backpack", "person"]}
+{"image_id": 23380, "image": "COCO_val2014_000000023380.jpg", "annotations": ["truck"]}
+{"image_id": 166255, "image": "COCO_val2014_000000166255.jpg", "annotations": ["horse", "person"]}
+{"image_id": 355394, "image": "COCO_val2014_000000355394.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 153486, "image": "COCO_val2014_000000153486.jpg", "annotations": ["handbag", "banana", "person"]}
+{"image_id": 280918, "image": "COCO_val2014_000000280918.jpg", "annotations": ["oven", "person", "bottle", "spoon", "refrigerator"]}
+{"image_id": 139605, "image": "COCO_val2014_000000139605.jpg", "annotations": ["boat"]}
+{"image_id": 394681, "image": "COCO_val2014_000000394681.jpg", "annotations": ["bus"]}
+{"image_id": 301746, "image": "COCO_val2014_000000301746.jpg", "annotations": ["traffic light", "bicycle", "stop sign", "person"]}
+{"image_id": 133631, "image": "COCO_val2014_000000133631.jpg", "annotations": ["elephant"]}
+{"image_id": 132389, "image": "COCO_val2014_000000132389.jpg", "annotations": ["dog"]}
+{"image_id": 31620, "image": "COCO_val2014_000000031620.jpg", "annotations": ["knife", "cup", "person", "tie", "cake", "chair"]}
+{"image_id": 213831, "image": "COCO_val2014_000000213831.jpg", "annotations": ["bowl", "donut"]}
+{"image_id": 411201, "image": "COCO_val2014_000000411201.jpg", "annotations": ["bus", "person"]}
+{"image_id": 244792, "image": "COCO_val2014_000000244792.jpg", "annotations": ["bowl", "knife", "dining table", "fork", "person", "banana", "orange", "cake", "spoon"]}
+{"image_id": 195538, "image": "COCO_val2014_000000195538.jpg", "annotations": ["remote", "keyboard", "laptop", "cup", "cell phone", "tv", "mouse"]}
+{"image_id": 498994, "image": "COCO_val2014_000000498994.jpg", "annotations": ["suitcase"]}
+{"image_id": 282830, "image": "COCO_val2014_000000282830.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 352286, "image": "COCO_val2014_000000352286.jpg", "annotations": ["remote", "couch", "cup", "tv"]}
+{"image_id": 9003, "image": "COCO_val2014_000000009003.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 129502, "image": "COCO_val2014_000000129502.jpg", "annotations": ["skis", "backpack", "person"]}
+{"image_id": 256769, "image": "COCO_val2014_000000256769.jpg", "annotations": ["sandwich", "chair", "person"]}
+{"image_id": 214958, "image": "COCO_val2014_000000214958.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 194940, "image": "COCO_val2014_000000194940.jpg", "annotations": ["bowl", "cup", "carrot", "broccoli"]}
+{"image_id": 259854, "image": "COCO_val2014_000000259854.jpg", "annotations": ["person"]}
+{"image_id": 333140, "image": "COCO_val2014_000000333140.jpg", "annotations": ["book", "cat", "keyboard"]}
+{"image_id": 233652, "image": "COCO_val2014_000000233652.jpg", "annotations": ["sandwich", "dining table"]}
+{"image_id": 528386, "image": "COCO_val2014_000000528386.jpg", "annotations": ["bottle", "tv"]}
+{"image_id": 234341, "image": "COCO_val2014_000000234341.jpg", "annotations": ["keyboard", "tv", "mouse", "cell phone"]}
+{"image_id": 373945, "image": "COCO_val2014_000000373945.jpg", "annotations": ["oven", "knife", "person", "chair", "sink", "pizza"]}
+{"image_id": 534308, "image": "COCO_val2014_000000534308.jpg", "annotations": ["elephant"]}
+{"image_id": 213309, "image": "COCO_val2014_000000213309.jpg", "annotations": ["toilet"]}
+{"image_id": 423944, "image": "COCO_val2014_000000423944.jpg", "annotations": ["tie"]}
+{"image_id": 503668, "image": "COCO_val2014_000000503668.jpg", "annotations": ["dog", "couch"]}
+{"image_id": 577223, "image": "COCO_val2014_000000577223.jpg", "annotations": ["truck"]}
+{"image_id": 190406, "image": "COCO_val2014_000000190406.jpg", "annotations": ["traffic light", "bus", "car", "person"]}
+{"image_id": 148843, "image": "COCO_val2014_000000148843.jpg", "annotations": ["motorcycle", "truck", "person"]}
+{"image_id": 190095, "image": "COCO_val2014_000000190095.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 509008, "image": "COCO_val2014_000000509008.jpg", "annotations": ["bus"]}
+{"image_id": 96207, "image": "COCO_val2014_000000096207.jpg", "annotations": ["truck", "car", "person"]}
+{"image_id": 444236, "image": "COCO_val2014_000000444236.jpg", "annotations": ["bus", "traffic light", "person", "potted plant", "car"]}
+{"image_id": 168248, "image": "COCO_val2014_000000168248.jpg", "annotations": ["car", "skateboard", "person"]}
+{"image_id": 302275, "image": "COCO_val2014_000000302275.jpg", "annotations": ["pizza", "carrot", "broccoli"]}
+{"image_id": 11316, "image": "COCO_val2014_000000011316.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 415048, "image": "COCO_val2014_000000415048.jpg", "annotations": ["handbag", "book", "couch", "vase", "chair"]}
+{"image_id": 413225, "image": "COCO_val2014_000000413225.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 104647, "image": "COCO_val2014_000000104647.jpg", "annotations": ["umbrella", "motorcycle", "person"]}
+{"image_id": 426687, "image": "COCO_val2014_000000426687.jpg", "annotations": ["elephant"]}
+{"image_id": 423617, "image": "COCO_val2014_000000423617.jpg", "annotations": ["bus", "motorcycle", "car", "person"]}
+{"image_id": 16308, "image": "COCO_val2014_000000016308.jpg", "annotations": ["tie", "tennis racket", "person"]}
+{"image_id": 1347, "image": "COCO_val2014_000000001347.jpg", "annotations": ["keyboard", "laptop", "cup", "tv", "mouse"]}
+{"image_id": 431067, "image": "COCO_val2014_000000431067.jpg", "annotations": ["kite", "chair", "person"]}
+{"image_id": 62554, "image": "COCO_val2014_000000062554.jpg", "annotations": ["bowl", "dining table", "fork", "broccoli"]}
+{"image_id": 99518, "image": "COCO_val2014_000000099518.jpg", "annotations": ["airplane", "tie", "truck", "person"]}
+{"image_id": 263211, "image": "COCO_val2014_000000263211.jpg", "annotations": ["giraffe"]}
+{"image_id": 298738, "image": "COCO_val2014_000000298738.jpg", "annotations": ["bear"]}
+{"image_id": 100238, "image": "COCO_val2014_000000100238.jpg", "annotations": ["frisbee", "bottle", "handbag", "person"]}
+{"image_id": 436323, "image": "COCO_val2014_000000436323.jpg", "annotations": ["frisbee", "car", "person"]}
+{"image_id": 151704, "image": "COCO_val2014_000000151704.jpg", "annotations": ["remote", "book", "couch", "person", "tv", "chair"]}
+{"image_id": 530520, "image": "COCO_val2014_000000530520.jpg", "annotations": ["motorcycle", "laptop", "backpack", "person", "clock"]}
+{"image_id": 63104, "image": "COCO_val2014_000000063104.jpg", "annotations": ["baseball glove", "sports ball", "person"]}
+{"image_id": 101715, "image": "COCO_val2014_000000101715.jpg", "annotations": ["dining table", "cup", "wine glass", "banana"]}
+{"image_id": 251367, "image": "COCO_val2014_000000251367.jpg", "annotations": ["person", "baseball glove", "bench", "baseball bat", "chair"]}
+{"image_id": 455343, "image": "COCO_val2014_000000455343.jpg", "annotations": ["toilet"]}
+{"image_id": 491902, "image": "COCO_val2014_000000491902.jpg", "annotations": ["bench", "person"]}
+{"image_id": 165750, "image": "COCO_val2014_000000165750.jpg", "annotations": ["bottle", "toilet", "sink"]}
+{"image_id": 4093, "image": "COCO_val2014_000000004093.jpg", "annotations": ["truck"]}
+{"image_id": 268484, "image": "COCO_val2014_000000268484.jpg", "annotations": ["umbrella", "handbag", "kite", "person"]}
+{"image_id": 390099, "image": "COCO_val2014_000000390099.jpg", "annotations": ["person", "laptop", "mouse", "cell phone"]}
+{"image_id": 523394, "image": "COCO_val2014_000000523394.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 249129, "image": "COCO_val2014_000000249129.jpg", "annotations": ["knife", "dining table", "cup", "clock", "chair", "teddy bear"]}
+{"image_id": 364113, "image": "COCO_val2014_000000364113.jpg", "annotations": ["horse", "person"]}
+{"image_id": 338304, "image": "COCO_val2014_000000338304.jpg", "annotations": ["handbag", "sheep", "cell phone", "person"]}
+{"image_id": 318464, "image": "COCO_val2014_000000318464.jpg", "annotations": ["bicycle", "bench", "potted plant"]}
+{"image_id": 178189, "image": "COCO_val2014_000000178189.jpg", "annotations": ["airplane"]}
+{"image_id": 99177, "image": "COCO_val2014_000000099177.jpg", "annotations": ["umbrella", "handbag", "person"]}
+{"image_id": 462809, "image": "COCO_val2014_000000462809.jpg", "annotations": ["baseball glove", "sports ball", "baseball bat", "person"]}
+{"image_id": 574785, "image": "COCO_val2014_000000574785.jpg", "annotations": ["airplane"]}
+{"image_id": 261783, "image": "COCO_val2014_000000261783.jpg", "annotations": ["clock", "person"]}
+{"image_id": 502006, "image": "COCO_val2014_000000502006.jpg", "annotations": ["bear"]}
+{"image_id": 86249, "image": "COCO_val2014_000000086249.jpg", "annotations": ["toothbrush", "person"]}
+{"image_id": 315742, "image": "COCO_val2014_000000315742.jpg", "annotations": ["laptop", "backpack", "person", "cell phone", "chair", "mouse"]}
+{"image_id": 104589, "image": "COCO_val2014_000000104589.jpg", "annotations": ["bowl", "sandwich", "carrot", "fork", "cake"]}
+{"image_id": 547886, "image": "COCO_val2014_000000547886.jpg", "annotations": ["horse", "person"]}
+{"image_id": 8844, "image": "COCO_val2014_000000008844.jpg", "annotations": ["banana", "person"]}
+{"image_id": 318566, "image": "COCO_val2014_000000318566.jpg", "annotations": ["person", "handbag", "cell phone"]}
+{"image_id": 554767, "image": "COCO_val2014_000000554767.jpg", "annotations": ["traffic light", "bench", "train"]}
+{"image_id": 321935, "image": "COCO_val2014_000000321935.jpg", "annotations": ["traffic light", "clock"]}
+{"image_id": 460841, "image": "COCO_val2014_000000460841.jpg", "annotations": ["bottle", "toilet", "cat", "person"]}
+{"image_id": 429761, "image": "COCO_val2014_000000429761.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 327605, "image": "COCO_val2014_000000327605.jpg", "annotations": ["skis", "person"]}
+{"image_id": 226154, "image": "COCO_val2014_000000226154.jpg", "annotations": ["motorcycle", "bus", "person"]}
+{"image_id": 207728, "image": "COCO_val2014_000000207728.jpg", "annotations": ["sheep"]}
+{"image_id": 67342, "image": "COCO_val2014_000000067342.jpg", "annotations": ["bird"]}
+{"image_id": 143483, "image": "COCO_val2014_000000143483.jpg", "annotations": ["dining table", "dog", "couch", "potted plant", "chair", "teddy bear"]}
+{"image_id": 424349, "image": "COCO_val2014_000000424349.jpg", "annotations": ["oven", "pizza", "person"]}
+{"image_id": 518363, "image": "COCO_val2014_000000518363.jpg", "annotations": ["cow"]}
+{"image_id": 60347, "image": "COCO_val2014_000000060347.jpg", "annotations": ["bench", "person"]}
+{"image_id": 337667, "image": "COCO_val2014_000000337667.jpg", "annotations": ["train"]}
+{"image_id": 352507, "image": "COCO_val2014_000000352507.jpg", "annotations": ["couch", "potted plant", "tv", "chair", "bed"]}
+{"image_id": 328777, "image": "COCO_val2014_000000328777.jpg", "annotations": ["airplane"]}
+{"image_id": 29906, "image": "COCO_val2014_000000029906.jpg", "annotations": ["broccoli"]}
+{"image_id": 348522, "image": "COCO_val2014_000000348522.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 326284, "image": "COCO_val2014_000000326284.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 307538, "image": "COCO_val2014_000000307538.jpg", "annotations": ["horse", "person"]}
+{"image_id": 399570, "image": "COCO_val2014_000000399570.jpg", "annotations": ["bicycle", "umbrella", "dining table", "cup", "person", "chair"]}
+{"image_id": 293574, "image": "COCO_val2014_000000293574.jpg", "annotations": ["vase", "wine glass", "cup", "potted plant"]}
+{"image_id": 132689, "image": "COCO_val2014_000000132689.jpg", "annotations": ["bench", "umbrella", "dining table", "potted plant"]}
+{"image_id": 450458, "image": "COCO_val2014_000000450458.jpg", "annotations": ["person", "car", "train"]}
+{"image_id": 93670, "image": "COCO_val2014_000000093670.jpg", "annotations": ["tie", "person"]}
+{"image_id": 317070, "image": "COCO_val2014_000000317070.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 173245, "image": "COCO_val2014_000000173245.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 360097, "image": "COCO_val2014_000000360097.jpg", "annotations": ["suitcase", "person"]}
+{"image_id": 256868, "image": "COCO_val2014_000000256868.jpg", "annotations": ["bench", "skateboard", "person"]}
+{"image_id": 192079, "image": "COCO_val2014_000000192079.jpg", "annotations": ["bowl", "oven", "knife", "book", "dining table", "cup", "fork", "person", "spoon"]}
+{"image_id": 235575, "image": "COCO_val2014_000000235575.jpg", "annotations": ["cup", "fork", "broccoli"]}
+{"image_id": 283977, "image": "COCO_val2014_000000283977.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 511906, "image": "COCO_val2014_000000511906.jpg", "annotations": ["sandwich", "carrot", "hot dog", "person"]}
+{"image_id": 490322, "image": "COCO_val2014_000000490322.jpg", "annotations": ["clock"]}
+{"image_id": 374061, "image": "COCO_val2014_000000374061.jpg", "annotations": ["teddy bear", "cat", "bed"]}
+{"image_id": 103579, "image": "COCO_val2014_000000103579.jpg", "annotations": ["frisbee", "bench", "person"]}
+{"image_id": 415076, "image": "COCO_val2014_000000415076.jpg", "annotations": ["handbag", "clock", "backpack", "person"]}
+{"image_id": 395210, "image": "COCO_val2014_000000395210.jpg", "annotations": ["clock"]}
+{"image_id": 367195, "image": "COCO_val2014_000000367195.jpg", "annotations": ["dog", "couch", "person"]}
+{"image_id": 75187, "image": "COCO_val2014_000000075187.jpg", "annotations": ["bench", "person"]}
+{"image_id": 91912, "image": "COCO_val2014_000000091912.jpg", "annotations": ["boat", "person"]}
+{"image_id": 246672, "image": "COCO_val2014_000000246672.jpg", "annotations": ["elephant"]}
+{"image_id": 363126, "image": "COCO_val2014_000000363126.jpg", "annotations": ["skis", "person"]}
+{"image_id": 110258, "image": "COCO_val2014_000000110258.jpg", "annotations": ["giraffe", "zebra"]}
+{"image_id": 465878, "image": "COCO_val2014_000000465878.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 302380, "image": "COCO_val2014_000000302380.jpg", "annotations": ["person", "cup", "cake"]}
+{"image_id": 337139, "image": "COCO_val2014_000000337139.jpg", "annotations": ["bird"]}
+{"image_id": 547102, "image": "COCO_val2014_000000547102.jpg", "annotations": ["vase", "dining table"]}
+{"image_id": 451683, "image": "COCO_val2014_000000451683.jpg", "annotations": ["pizza"]}
+{"image_id": 7386, "image": "COCO_val2014_000000007386.jpg", "annotations": ["bicycle", "dog", "motorcycle", "truck"]}
+{"image_id": 398866, "image": "COCO_val2014_000000398866.jpg", "annotations": ["elephant", "backpack", "person"]}
+{"image_id": 537153, "image": "COCO_val2014_000000537153.jpg", "annotations": ["bench", "person"]}
+{"image_id": 559462, "image": "COCO_val2014_000000559462.jpg", "annotations": ["umbrella", "person"]}
+{"image_id": 309120, "image": "COCO_val2014_000000309120.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 421109, "image": "COCO_val2014_000000421109.jpg", "annotations": ["horse"]}
+{"image_id": 392985, "image": "COCO_val2014_000000392985.jpg", "annotations": ["elephant", "backpack", "person"]}
+{"image_id": 14282, "image": "COCO_val2014_000000014282.jpg", "annotations": ["sink"]}
+{"image_id": 35282, "image": "COCO_val2014_000000035282.jpg", "annotations": ["traffic light", "car"]}
+{"image_id": 412399, "image": "COCO_val2014_000000412399.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 192296, "image": "COCO_val2014_000000192296.jpg", "annotations": ["umbrella", "dining table", "cup", "person", "cell phone", "bottle", "chair"]}
+{"image_id": 527784, "image": "COCO_val2014_000000527784.jpg", "annotations": ["sandwich", "dining table", "fork", "bottle", "vase"]}
+{"image_id": 546667, "image": "COCO_val2014_000000546667.jpg", "annotations": ["bench", "elephant", "person"]}
+{"image_id": 357081, "image": "COCO_val2014_000000357081.jpg", "annotations": ["cow"]}
+{"image_id": 333290, "image": "COCO_val2014_000000333290.jpg", "annotations": ["giraffe"]}
+{"image_id": 580542, "image": "COCO_val2014_000000580542.jpg", "annotations": ["knife", "dining table", "wine glass", "cup", "fork", "person", "vase", "chair", "pizza"]}
+{"image_id": 434958, "image": "COCO_val2014_000000434958.jpg", "annotations": ["cat", "person"]}
+{"image_id": 72813, "image": "COCO_val2014_000000072813.jpg", "annotations": ["dog", "tv", "bed"]}
+{"image_id": 370208, "image": "COCO_val2014_000000370208.jpg", "annotations": ["bicycle", "parking meter", "person"]}
+{"image_id": 293022, "image": "COCO_val2014_000000293022.jpg", "annotations": ["book", "stop sign", "person"]}
+{"image_id": 519361, "image": "COCO_val2014_000000519361.jpg", "annotations": ["truck", "horse", "car", "person"]}
+{"image_id": 419379, "image": "COCO_val2014_000000419379.jpg", "annotations": ["donut", "person"]}
+{"image_id": 160933, "image": "COCO_val2014_000000160933.jpg", "annotations": ["dining table", "cup", "person", "chair", "pizza"]}
+{"image_id": 512476, "image": "COCO_val2014_000000512476.jpg", "annotations": ["bowl", "bottle", "spoon", "couch", "sink"]}
+{"image_id": 471932, "image": "COCO_val2014_000000471932.jpg", "annotations": ["handbag", "scissors"]}
+{"image_id": 206431, "image": "COCO_val2014_000000206431.jpg", "annotations": ["person", "car", "pizza"]}
+{"image_id": 396903, "image": "COCO_val2014_000000396903.jpg", "annotations": ["airplane", "person"]}
+{"image_id": 49097, "image": "COCO_val2014_000000049097.jpg", "annotations": ["bicycle", "handbag", "dog", "potted plant", "person"]}
+{"image_id": 472478, "image": "COCO_val2014_000000472478.jpg", "annotations": ["bottle", "dining table", "pizza"]}
+{"image_id": 563271, "image": "COCO_val2014_000000563271.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 193006, "image": "COCO_val2014_000000193006.jpg", "annotations": ["car", "skateboard", "person"]}
+{"image_id": 212927, "image": "COCO_val2014_000000212927.jpg", "annotations": ["book", "laptop", "bed", "person"]}
+{"image_id": 158250, "image": "COCO_val2014_000000158250.jpg", "annotations": ["bird"]}
+{"image_id": 494140, "image": "COCO_val2014_000000494140.jpg", "annotations": ["cow", "person"]}
+{"image_id": 519271, "image": "COCO_val2014_000000519271.jpg", "annotations": ["bowl", "sandwich", "knife", "dining table", "cup", "fork", "bottle", "broccoli"]}
+{"image_id": 414711, "image": "COCO_val2014_000000414711.jpg", "annotations": ["clock"]}
+{"image_id": 216863, "image": "COCO_val2014_000000216863.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 238404, "image": "COCO_val2014_000000238404.jpg", "annotations": ["cow"]}
+{"image_id": 424289, "image": "COCO_val2014_000000424289.jpg", "annotations": ["sheep"]}
+{"image_id": 294247, "image": "COCO_val2014_000000294247.jpg", "annotations": ["airplane"]}
+{"image_id": 153764, "image": "COCO_val2014_000000153764.jpg", "annotations": ["person", "umbrella", "sports ball", "tennis racket"]}
+{"image_id": 150358, "image": "COCO_val2014_000000150358.jpg", "annotations": ["potted plant", "couch", "teddy bear", "person"]}
+{"image_id": 50786, "image": "COCO_val2014_000000050786.jpg", "annotations": ["truck", "car"]}
+{"image_id": 136170, "image": "COCO_val2014_000000136170.jpg", "annotations": ["zebra"]}
+{"image_id": 355137, "image": "COCO_val2014_000000355137.jpg", "annotations": ["skis", "person"]}
+{"image_id": 356406, "image": "COCO_val2014_000000356406.jpg", "annotations": ["dog", "person"]}
+{"image_id": 495612, "image": "COCO_val2014_000000495612.jpg", "annotations": ["traffic light"]}
+{"image_id": 386194, "image": "COCO_val2014_000000386194.jpg", "annotations": ["zebra"]}
+{"image_id": 80337, "image": "COCO_val2014_000000080337.jpg", "annotations": ["banana", "person"]}
+{"image_id": 197666, "image": "COCO_val2014_000000197666.jpg", "annotations": ["car", "fire hydrant"]}
+{"image_id": 460837, "image": "COCO_val2014_000000460837.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 332609, "image": "COCO_val2014_000000332609.jpg", "annotations": ["cup", "person", "potted plant", "bottle", "pizza"]}
+{"image_id": 545155, "image": "COCO_val2014_000000545155.jpg", "annotations": ["horse", "person"]}
+{"image_id": 319350, "image": "COCO_val2014_000000319350.jpg", "annotations": ["umbrella", "wine glass", "couch", "person", "tv", "chair"]}
+{"image_id": 482242, "image": "COCO_val2014_000000482242.jpg", "annotations": ["book", "keyboard", "dog", "person", "cell phone", "bottle", "tv", "chair", "mouse"]}
+{"image_id": 298051, "image": "COCO_val2014_000000298051.jpg", "annotations": ["handbag", "clock", "car", "person"]}
+{"image_id": 311310, "image": "COCO_val2014_000000311310.jpg", "annotations": ["kite", "sports ball", "person"]}
+{"image_id": 100090, "image": "COCO_val2014_000000100090.jpg", "annotations": ["spoon", "broccoli", "person"]}
+{"image_id": 541493, "image": "COCO_val2014_000000541493.jpg", "annotations": ["vase", "bottle", "sink", "potted plant"]}
+{"image_id": 434829, "image": "COCO_val2014_000000434829.jpg", "annotations": ["clock"]}
+{"image_id": 321810, "image": "COCO_val2014_000000321810.jpg", "annotations": ["frisbee", "dog"]}
+{"image_id": 262672, "image": "COCO_val2014_000000262672.jpg", "annotations": ["skis", "car", "backpack", "person"]}
+{"image_id": 377730, "image": "COCO_val2014_000000377730.jpg", "annotations": ["bowl", "dining table", "wine glass", "potted plant", "person", "bottle", "clock", "chair"]}
+{"image_id": 481895, "image": "COCO_val2014_000000481895.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 46327, "image": "COCO_val2014_000000046327.jpg", "annotations": ["giraffe"]}
+{"image_id": 228344, "image": "COCO_val2014_000000228344.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 149115, "image": "COCO_val2014_000000149115.jpg", "annotations": ["baseball bat", "person"]}
+{"image_id": 267076, "image": "COCO_val2014_000000267076.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 236023, "image": "COCO_val2014_000000236023.jpg", "annotations": ["oven", "knife", "cup", "person", "bottle", "clock", "refrigerator"]}
+{"image_id": 406489, "image": "COCO_val2014_000000406489.jpg", "annotations": ["train"]}
+{"image_id": 97423, "image": "COCO_val2014_000000097423.jpg", "annotations": ["person", "baseball glove", "bench", "baseball bat", "sports ball"]}
+{"image_id": 243190, "image": "COCO_val2014_000000243190.jpg", "annotations": ["spoon", "bowl", "carrot"]}
+{"image_id": 139637, "image": "COCO_val2014_000000139637.jpg", "annotations": ["bicycle", "bench", "person"]}
+{"image_id": 244878, "image": "COCO_val2014_000000244878.jpg", "annotations": ["toothbrush"]}
+{"image_id": 55727, "image": "COCO_val2014_000000055727.jpg", "annotations": ["toilet", "sink", "person"]}
+{"image_id": 503585, "image": "COCO_val2014_000000503585.jpg", "annotations": ["handbag", "backpack", "person", "suitcase", "train"]}
+{"image_id": 106722, "image": "COCO_val2014_000000106722.jpg", "annotations": ["bird", "motorcycle", "bus", "person"]}
+{"image_id": 79686, "image": "COCO_val2014_000000079686.jpg", "annotations": ["bowl", "book", "dining table", "chair"]}
+{"image_id": 19176, "image": "COCO_val2014_000000019176.jpg", "annotations": ["baseball glove", "chair", "person"]}
+{"image_id": 22199, "image": "COCO_val2014_000000022199.jpg", "annotations": ["cake", "donut", "person"]}
+{"image_id": 309935, "image": "COCO_val2014_000000309935.jpg", "annotations": ["vase", "dining table", "chair"]}
+{"image_id": 491106, "image": "COCO_val2014_000000491106.jpg", "annotations": ["person", "train"]}
+{"image_id": 564280, "image": "COCO_val2014_000000564280.jpg", "annotations": ["remote", "dog", "couch"]}
+{"image_id": 71123, "image": "COCO_val2014_000000071123.jpg", "annotations": ["airplane"]}
+{"image_id": 568238, "image": "COCO_val2014_000000568238.jpg", "annotations": ["frisbee", "dog"]}
+{"image_id": 160447, "image": "COCO_val2014_000000160447.jpg", "annotations": ["giraffe"]}
+{"image_id": 408757, "image": "COCO_val2014_000000408757.jpg", "annotations": ["kite", "person"]}
+{"image_id": 380101, "image": "COCO_val2014_000000380101.jpg", "annotations": ["bird", "umbrella", "person"]}
+{"image_id": 411768, "image": "COCO_val2014_000000411768.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 547221, "image": "COCO_val2014_000000547221.jpg", "annotations": ["clock"]}
+{"image_id": 301956, "image": "COCO_val2014_000000301956.jpg", "annotations": ["clock", "chair"]}
+{"image_id": 540820, "image": "COCO_val2014_000000540820.jpg", "annotations": ["toilet", "cup", "sink"]}
+{"image_id": 56988, "image": "COCO_val2014_000000056988.jpg", "annotations": ["toilet", "person"]}
+{"image_id": 23309, "image": "COCO_val2014_000000023309.jpg", "annotations": ["carrot", "broccoli"]}
+{"image_id": 290700, "image": "COCO_val2014_000000290700.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 113867, "image": "COCO_val2014_000000113867.jpg", "annotations": ["clock"]}
+{"image_id": 520812, "image": "COCO_val2014_000000520812.jpg", "annotations": ["sheep"]}
+{"image_id": 173204, "image": "COCO_val2014_000000173204.jpg", "annotations": ["skis", "person"]}
+{"image_id": 453584, "image": "COCO_val2014_000000453584.jpg", "annotations": ["bench", "chair"]}
+{"image_id": 18918, "image": "COCO_val2014_000000018918.jpg", "annotations": ["bowl", "oven", "sink"]}
+{"image_id": 418816, "image": "COCO_val2014_000000418816.jpg", "annotations": ["bicycle", "umbrella", "truck", "person"]}
+{"image_id": 349918, "image": "COCO_val2014_000000349918.jpg", "annotations": ["keyboard", "laptop", "cup", "scissors", "tv", "chair", "mouse"]}
+{"image_id": 209071, "image": "COCO_val2014_000000209071.jpg", "annotations": ["laptop", "book", "couch"]}
+{"image_id": 232287, "image": "COCO_val2014_000000232287.jpg", "annotations": ["oven", "dining table", "microwave"]}
+{"image_id": 138549, "image": "COCO_val2014_000000138549.jpg", "annotations": ["sandwich", "dining table", "book", "cup", "orange", "vase", "chair"]}
+{"image_id": 295945, "image": "COCO_val2014_000000295945.jpg", "annotations": ["motorcycle", "person"]}
+{"image_id": 299640, "image": "COCO_val2014_000000299640.jpg", "annotations": ["remote"]}
+{"image_id": 428712, "image": "COCO_val2014_000000428712.jpg", "annotations": ["sandwich", "dining table", "cake"]}
+{"image_id": 540106, "image": "COCO_val2014_000000540106.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 44250, "image": "COCO_val2014_000000044250.jpg", "annotations": ["bear"]}
+{"image_id": 303672, "image": "COCO_val2014_000000303672.jpg", "annotations": ["remote", "dining table", "cell phone"]}
+{"image_id": 563964, "image": "COCO_val2014_000000563964.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 571925, "image": "COCO_val2014_000000571925.jpg", "annotations": ["umbrella", "giraffe", "person"]}
+{"image_id": 246005, "image": "COCO_val2014_000000246005.jpg", "annotations": ["bicycle", "car", "skateboard", "person"]}
+{"image_id": 465545, "image": "COCO_val2014_000000465545.jpg", "annotations": ["bowl", "toilet", "toothbrush", "cup", "vase", "sink"]}
+{"image_id": 434022, "image": "COCO_val2014_000000434022.jpg", "annotations": ["person", "train"]}
+{"image_id": 206417, "image": "COCO_val2014_000000206417.jpg", "annotations": ["frisbee", "dog", "person"]}
+{"image_id": 246066, "image": "COCO_val2014_000000246066.jpg", "annotations": ["bench", "car", "person"]}
+{"image_id": 243218, "image": "COCO_val2014_000000243218.jpg", "annotations": ["cat", "bed"]}
+{"image_id": 245659, "image": "COCO_val2014_000000245659.jpg", "annotations": ["toilet"]}
+{"image_id": 45388, "image": "COCO_val2014_000000045388.jpg", "annotations": ["kite", "person"]}
+{"image_id": 1840, "image": "COCO_val2014_000000001840.jpg", "annotations": ["umbrella"]}
+{"image_id": 337690, "image": "COCO_val2014_000000337690.jpg", "annotations": ["cup", "pizza"]}
+{"image_id": 35899, "image": "COCO_val2014_000000035899.jpg", "annotations": ["bear"]}
+{"image_id": 40087, "image": "COCO_val2014_000000040087.jpg", "annotations": ["fire hydrant"]}
+{"image_id": 217783, "image": "COCO_val2014_000000217783.jpg", "annotations": ["airplane", "handbag", "truck", "person"]}
+{"image_id": 400981, "image": "COCO_val2014_000000400981.jpg", "annotations": ["sports ball", "tennis racket", "person", "bench", "chair"]}
+{"image_id": 506574, "image": "COCO_val2014_000000506574.jpg", "annotations": ["giraffe"]}
+{"image_id": 498638, "image": "COCO_val2014_000000498638.jpg", "annotations": ["tennis racket", "bench", "sports ball", "person"]}
+{"image_id": 487898, "image": "COCO_val2014_000000487898.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 552532, "image": "COCO_val2014_000000552532.jpg", "annotations": ["cow", "person"]}
+{"image_id": 99053, "image": "COCO_val2014_000000099053.jpg", "annotations": ["bowl", "dining table", "fork", "broccoli"]}
+{"image_id": 50576, "image": "COCO_val2014_000000050576.jpg", "annotations": ["truck", "person"]}
+{"image_id": 499591, "image": "COCO_val2014_000000499591.jpg", "annotations": ["horse", "person"]}
+{"image_id": 370055, "image": "COCO_val2014_000000370055.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 464526, "image": "COCO_val2014_000000464526.jpg", "annotations": ["remote", "person", "potted plant", "couch", "bed"]}
+{"image_id": 147556, "image": "COCO_val2014_000000147556.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 155216, "image": "COCO_val2014_000000155216.jpg", "annotations": ["traffic light", "car", "person"]}
+{"image_id": 297956, "image": "COCO_val2014_000000297956.jpg", "annotations": ["stop sign", "motorcycle", "person"]}
+{"image_id": 567877, "image": "COCO_val2014_000000567877.jpg", "annotations": ["dining table", "couch", "person", "cake", "chair"]}
+{"image_id": 422017, "image": "COCO_val2014_000000422017.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 42576, "image": "COCO_val2014_000000042576.jpg", "annotations": ["cat", "bed"]}
+{"image_id": 419854, "image": "COCO_val2014_000000419854.jpg", "annotations": ["bird"]}
+{"image_id": 297372, "image": "COCO_val2014_000000297372.jpg", "annotations": ["bicycle", "dog"]}
+{"image_id": 52949, "image": "COCO_val2014_000000052949.jpg", "annotations": ["stop sign"]}
+{"image_id": 99810, "image": "COCO_val2014_000000099810.jpg", "annotations": ["donut", "dining table", "chair", "person"]}
+{"image_id": 569535, "image": "COCO_val2014_000000569535.jpg", "annotations": ["sports ball", "tennis racket", "person", "potted plant", "tie", "chair"]}
+{"image_id": 531044, "image": "COCO_val2014_000000531044.jpg", "annotations": ["giraffe"]}
+{"image_id": 162332, "image": "COCO_val2014_000000162332.jpg", "annotations": ["cake", "knife", "person"]}
+{"image_id": 405998, "image": "COCO_val2014_000000405998.jpg", "annotations": ["cake", "horse", "person"]}
+{"image_id": 363853, "image": "COCO_val2014_000000363853.jpg", "annotations": ["couch", "cat"]}
+{"image_id": 496268, "image": "COCO_val2014_000000496268.jpg", "annotations": ["stop sign"]}
+{"image_id": 149456, "image": "COCO_val2014_000000149456.jpg", "annotations": ["bowl", "carrot", "broccoli"]}
+{"image_id": 276720, "image": "COCO_val2014_000000276720.jpg", "annotations": ["truck", "car"]}
+{"image_id": 225198, "image": "COCO_val2014_000000225198.jpg", "annotations": ["teddy bear", "bed"]}
+{"image_id": 279919, "image": "COCO_val2014_000000279919.jpg", "annotations": ["banana", "cat"]}
+{"image_id": 524656, "image": "COCO_val2014_000000524656.jpg", "annotations": ["bowl", "oven", "knife", "wine glass", "cup", "bottle", "microwave", "spoon", "sink", "refrigerator"]}
+{"image_id": 1146, "image": "COCO_val2014_000000001146.jpg", "annotations": ["tie", "person"]}
+{"image_id": 218736, "image": "COCO_val2014_000000218736.jpg", "annotations": ["dining table", "hot dog", "person", "bottle", "apple"]}
+{"image_id": 178299, "image": "COCO_val2014_000000178299.jpg", "annotations": ["bottle", "sink", "cat", "toothbrush"]}
+{"image_id": 202923, "image": "COCO_val2014_000000202923.jpg", "annotations": ["baseball glove", "baseball bat", "person"]}
+{"image_id": 126540, "image": "COCO_val2014_000000126540.jpg", "annotations": ["cat"]}
+{"image_id": 229270, "image": "COCO_val2014_000000229270.jpg", "annotations": ["suitcase", "person"]}
+{"image_id": 241880, "image": "COCO_val2014_000000241880.jpg", "annotations": ["skis", "person"]}
+{"image_id": 38048, "image": "COCO_val2014_000000038048.jpg", "annotations": ["person", "handbag", "car", "fire hydrant"]}
+{"image_id": 507951, "image": "COCO_val2014_000000507951.jpg", "annotations": ["vase", "bottle", "dining table", "cake"]}
+{"image_id": 432293, "image": "COCO_val2014_000000432293.jpg", "annotations": ["dining table", "chair", "pizza"]}
+{"image_id": 382855, "image": "COCO_val2014_000000382855.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 466410, "image": "COCO_val2014_000000466410.jpg", "annotations": ["vase", "potted plant"]}
+{"image_id": 248918, "image": "COCO_val2014_000000248918.jpg", "annotations": ["bed"]}
+{"image_id": 36149, "image": "COCO_val2014_000000036149.jpg", "annotations": ["book", "dining table", "backpack", "person", "potted plant", "clock", "chair"]}
+{"image_id": 510080, "image": "COCO_val2014_000000510080.jpg", "annotations": ["banana", "person"]}
+{"image_id": 291144, "image": "COCO_val2014_000000291144.jpg", "annotations": ["car", "parking meter"]}
+{"image_id": 192154, "image": "COCO_val2014_000000192154.jpg", "annotations": ["person", "umbrella", "cell phone"]}
+{"image_id": 448426, "image": "COCO_val2014_000000448426.jpg", "annotations": ["giraffe"]}
+{"image_id": 6712, "image": "COCO_val2014_000000006712.jpg", "annotations": ["sports ball", "baseball bat", "person"]}
+{"image_id": 38449, "image": "COCO_val2014_000000038449.jpg", "annotations": ["suitcase", "handbag", "car", "person"]}
+{"image_id": 499937, "image": "COCO_val2014_000000499937.jpg", "annotations": ["chair", "cat", "tv"]}
+{"image_id": 265742, "image": "COCO_val2014_000000265742.jpg", "annotations": ["elephant"]}
+{"image_id": 225757, "image": "COCO_val2014_000000225757.jpg", "annotations": ["remote", "keyboard", "laptop", "cell phone", "tv", "mouse"]}
+{"image_id": 535934, "image": "COCO_val2014_000000535934.jpg", "annotations": ["bowl", "dining table", "wine glass", "person", "cell phone", "bottle"]}
+{"image_id": 36230, "image": "COCO_val2014_000000036230.jpg", "annotations": ["handbag", "fork", "person", "bottle", "cake"]}
+{"image_id": 363922, "image": "COCO_val2014_000000363922.jpg", "annotations": ["remote", "chair", "person", "tv", "surfboard", "couch", "teddy bear"]}
+{"image_id": 390068, "image": "COCO_val2014_000000390068.jpg", "annotations": ["handbag", "bus", "traffic light", "backpack", "person", "tie", "truck"]}
+{"image_id": 505213, "image": "COCO_val2014_000000505213.jpg", "annotations": ["hot dog", "person"]}
+{"image_id": 337827, "image": "COCO_val2014_000000337827.jpg", "annotations": ["banana", "person"]}
+{"image_id": 434279, "image": "COCO_val2014_000000434279.jpg", "annotations": ["train"]}
+{"image_id": 522021, "image": "COCO_val2014_000000522021.jpg", "annotations": ["zebra"]}
+{"image_id": 338774, "image": "COCO_val2014_000000338774.jpg", "annotations": ["zebra"]}
+{"image_id": 506095, "image": "COCO_val2014_000000506095.jpg", "annotations": ["book", "laptop", "cat"]}
+{"image_id": 205370, "image": "COCO_val2014_000000205370.jpg", "annotations": ["remote", "cup", "person", "bottle", "couch"]}
+{"image_id": 125412, "image": "COCO_val2014_000000125412.jpg", "annotations": ["bear"]}
+{"image_id": 163755, "image": "COCO_val2014_000000163755.jpg", "annotations": ["skis", "clock", "snowboard", "person"]}
+{"image_id": 441240, "image": "COCO_val2014_000000441240.jpg", "annotations": ["chair", "tennis racket", "person"]}
+{"image_id": 331311, "image": "COCO_val2014_000000331311.jpg", "annotations": ["umbrella"]}
+{"image_id": 439215, "image": "COCO_val2014_000000439215.jpg", "annotations": ["spoon", "dining table", "cup", "cake"]}
+{"image_id": 504293, "image": "COCO_val2014_000000504293.jpg", "annotations": ["dog", "chair", "person"]}
+{"image_id": 510527, "image": "COCO_val2014_000000510527.jpg", "annotations": ["tie", "car", "person"]}
+{"image_id": 427802, "image": "COCO_val2014_000000427802.jpg", "annotations": ["orange"]}
+{"image_id": 198724, "image": "COCO_val2014_000000198724.jpg", "annotations": ["frisbee", "dog"]}
+{"image_id": 529762, "image": "COCO_val2014_000000529762.jpg", "annotations": ["bowl", "sandwich", "dining table", "wine glass", "book", "person", "cell phone"]}
+{"image_id": 62220, "image": "COCO_val2014_000000062220.jpg", "annotations": ["cow"]}
+{"image_id": 298443, "image": "COCO_val2014_000000298443.jpg", "annotations": ["dining table", "cup", "person", "bottle", "spoon", "chair"]}
+{"image_id": 260150, "image": "COCO_val2014_000000260150.jpg", "annotations": ["bottle", "dining table", "fork", "person"]}
+{"image_id": 256145, "image": "COCO_val2014_000000256145.jpg", "annotations": ["skis", "person"]}
+{"image_id": 154168, "image": "COCO_val2014_000000154168.jpg", "annotations": ["bench", "bus", "truck", "car"]}
+{"image_id": 546987, "image": "COCO_val2014_000000546987.jpg", "annotations": ["handbag", "cell phone", "person"]}
+{"image_id": 44910, "image": "COCO_val2014_000000044910.jpg", "annotations": ["boat"]}
+{"image_id": 128280, "image": "COCO_val2014_000000128280.jpg", "annotations": ["bowl", "orange"]}
+{"image_id": 225751, "image": "COCO_val2014_000000225751.jpg", "annotations": ["carrot", "broccoli"]}
+{"image_id": 499007, "image": "COCO_val2014_000000499007.jpg", "annotations": ["elephant"]}
+{"image_id": 241668, "image": "COCO_val2014_000000241668.jpg", "annotations": ["cake", "tie", "chair", "person"]}
+{"image_id": 321943, "image": "COCO_val2014_000000321943.jpg", "annotations": ["vase"]}
+{"image_id": 199927, "image": "COCO_val2014_000000199927.jpg", "annotations": ["chair", "orange", "person"]}
+{"image_id": 366099, "image": "COCO_val2014_000000366099.jpg", "annotations": ["pizza"]}
+{"image_id": 105518, "image": "COCO_val2014_000000105518.jpg", "annotations": ["bicycle", "car", "skateboard", "person"]}
+{"image_id": 259087, "image": "COCO_val2014_000000259087.jpg", "annotations": ["bowl", "sandwich", "dining table", "fork", "bottle", "spoon"]}
+{"image_id": 457271, "image": "COCO_val2014_000000457271.jpg", "annotations": ["horse", "person"]}
+{"image_id": 360073, "image": "COCO_val2014_000000360073.jpg", "annotations": ["dining table", "wine glass", "fork", "potted plant", "person", "bottle", "chair"]}
+{"image_id": 276057, "image": "COCO_val2014_000000276057.jpg", "annotations": ["laptop", "cell phone", "person", "bottle", "mouse", "bed"]}
+{"image_id": 24566, "image": "COCO_val2014_000000024566.jpg", "annotations": ["bus"]}
+{"image_id": 450169, "image": "COCO_val2014_000000450169.jpg", "annotations": ["toothbrush", "book", "person"]}
+{"image_id": 173825, "image": "COCO_val2014_000000173825.jpg", "annotations": ["book", "handbag", "dog", "cat", "tv", "vase", "couch"]}
+{"image_id": 328018, "image": "COCO_val2014_000000328018.jpg", "annotations": ["bird"]}
+{"image_id": 276018, "image": "COCO_val2014_000000276018.jpg", "annotations": ["teddy bear", "person"]}
+{"image_id": 417055, "image": "COCO_val2014_000000417055.jpg", "annotations": ["clock"]}
+{"image_id": 547431, "image": "COCO_val2014_000000547431.jpg", "annotations": ["airplane", "truck"]}
+{"image_id": 237495, "image": "COCO_val2014_000000237495.jpg", "annotations": ["truck", "car"]}
+{"image_id": 316514, "image": "COCO_val2014_000000316514.jpg", "annotations": ["bowl", "carrot"]}
+{"image_id": 194754, "image": "COCO_val2014_000000194754.jpg", "annotations": ["snowboard", "bench", "person"]}
+{"image_id": 347335, "image": "COCO_val2014_000000347335.jpg", "annotations": ["knife", "dining table", "cup", "fork"]}
+{"image_id": 499109, "image": "COCO_val2014_000000499109.jpg", "annotations": ["sandwich"]}
+{"image_id": 525381, "image": "COCO_val2014_000000525381.jpg", "annotations": ["cup", "person", "baseball glove", "baseball bat", "chair"]}
+{"image_id": 273086, "image": "COCO_val2014_000000273086.jpg", "annotations": ["bowl", "handbag", "dining table", "cup", "person", "cell phone", "donut", "spoon", "chair"]}
+{"image_id": 76595, "image": "COCO_val2014_000000076595.jpg", "annotations": ["bus", "potted plant", "car", "person"]}
+{"image_id": 270753, "image": "COCO_val2014_000000270753.jpg", "annotations": ["person", "pizza"]}
+{"image_id": 61520, "image": "COCO_val2014_000000061520.jpg", "annotations": ["traffic light", "truck", "bus"]}
+{"image_id": 253695, "image": "COCO_val2014_000000253695.jpg", "annotations": ["baseball glove", "person"]}
+{"image_id": 382256, "image": "COCO_val2014_000000382256.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 560470, "image": "COCO_val2014_000000560470.jpg", "annotations": ["donut", "person"]}
+{"image_id": 299593, "image": "COCO_val2014_000000299593.jpg", "annotations": ["traffic light", "bus", "car", "person"]}
+{"image_id": 462011, "image": "COCO_val2014_000000462011.jpg", "annotations": ["tie", "toilet", "person"]}
+{"image_id": 231527, "image": "COCO_val2014_000000231527.jpg", "annotations": ["knife", "dining table", "cup", "orange"]}
+{"image_id": 354491, "image": "COCO_val2014_000000354491.jpg", "annotations": ["horse"]}
+{"image_id": 531796, "image": "COCO_val2014_000000531796.jpg", "annotations": ["bench", "car", "bus", "person"]}
+{"image_id": 490470, "image": "COCO_val2014_000000490470.jpg", "annotations": ["boat"]}
+{"image_id": 515895, "image": "COCO_val2014_000000515895.jpg", "annotations": ["horse", "person"]}
+{"image_id": 148783, "image": "COCO_val2014_000000148783.jpg", "annotations": ["zebra"]}
+{"image_id": 89430, "image": "COCO_val2014_000000089430.jpg", "annotations": ["chair", "cat", "couch"]}
+{"image_id": 170788, "image": "COCO_val2014_000000170788.jpg", "annotations": ["bird"]}
+{"image_id": 15660, "image": "COCO_val2014_000000015660.jpg", "annotations": ["surfboard", "kite", "person"]}
+{"image_id": 126583, "image": "COCO_val2014_000000126583.jpg", "annotations": ["tennis racket", "person"]}
+{"image_id": 564332, "image": "COCO_val2014_000000564332.jpg", "annotations": ["oven", "person"]}
+{"image_id": 154785, "image": "COCO_val2014_000000154785.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 98801, "image": "COCO_val2014_000000098801.jpg", "annotations": ["bench", "surfboard", "backpack", "person"]}
+{"image_id": 552761, "image": "COCO_val2014_000000552761.jpg", "annotations": ["fire hydrant"]}
+{"image_id": 47226, "image": "COCO_val2014_000000047226.jpg", "annotations": ["person"]}
+{"image_id": 312384, "image": "COCO_val2014_000000312384.jpg", "annotations": ["car", "bus", "person"]}
+{"image_id": 325328, "image": "COCO_val2014_000000325328.jpg", "annotations": ["bowl", "knife", "wine glass", "dining table", "person", "bottle", "chair", "pizza"]}
+{"image_id": 352789, "image": "COCO_val2014_000000352789.jpg", "annotations": ["cow"]}
+{"image_id": 560323, "image": "COCO_val2014_000000560323.jpg", "annotations": ["chair", "tennis racket", "person"]}
+{"image_id": 579303, "image": "COCO_val2014_000000579303.jpg", "annotations": ["bowl", "sandwich", "dining table", "cup"]}
+{"image_id": 29020, "image": "COCO_val2014_000000029020.jpg", "annotations": ["person"]}
+{"image_id": 371326, "image": "COCO_val2014_000000371326.jpg", "annotations": ["banana"]}
+{"image_id": 38709, "image": "COCO_val2014_000000038709.jpg", "annotations": ["handbag", "cup", "giraffe", "person", "stop sign"]}
+{"image_id": 205504, "image": "COCO_val2014_000000205504.jpg", "annotations": ["person", "baseball glove", "truck", "car", "sports ball"]}
+{"image_id": 89459, "image": "COCO_val2014_000000089459.jpg", "annotations": ["traffic light"]}
+{"image_id": 333630, "image": "COCO_val2014_000000333630.jpg", "annotations": ["suitcase", "tie", "sports ball", "person"]}
+{"image_id": 219676, "image": "COCO_val2014_000000219676.jpg", "annotations": ["clock"]}
+{"image_id": 8267, "image": "COCO_val2014_000000008267.jpg", "annotations": ["toilet"]}
+{"image_id": 534444, "image": "COCO_val2014_000000534444.jpg", "annotations": ["handbag", "kite", "person", "truck", "car"]}
+{"image_id": 322604, "image": "COCO_val2014_000000322604.jpg", "annotations": ["motorcycle", "person"]}
+{"image_id": 53893, "image": "COCO_val2014_000000053893.jpg", "annotations": ["zebra"]}
+{"image_id": 470623, "image": "COCO_val2014_000000470623.jpg", "annotations": ["car", "cat"]}
+{"image_id": 79927, "image": "COCO_val2014_000000079927.jpg", "annotations": ["umbrella", "backpack", "person"]}
+{"image_id": 106344, "image": "COCO_val2014_000000106344.jpg", "annotations": ["tie", "handbag", "person"]}
+{"image_id": 82059, "image": "COCO_val2014_000000082059.jpg", "annotations": ["train"]}
+{"image_id": 537672, "image": "COCO_val2014_000000537672.jpg", "annotations": ["chair", "refrigerator"]}
+{"image_id": 287506, "image": "COCO_val2014_000000287506.jpg", "annotations": ["elephant", "person"]}
+{"image_id": 205105, "image": "COCO_val2014_000000205105.jpg", "annotations": ["tennis racket", "sports ball", "person"]}
+{"image_id": 412807, "image": "COCO_val2014_000000412807.jpg", "annotations": ["bench", "handbag", "cat", "person"]}
+{"image_id": 467194, "image": "COCO_val2014_000000467194.jpg", "annotations": ["car", "skateboard", "person"]}
+{"image_id": 37470, "image": "COCO_val2014_000000037470.jpg", "annotations": ["cat"]}
+{"image_id": 67953, "image": "COCO_val2014_000000067953.jpg", "annotations": ["skis", "person"]}
+{"image_id": 553320, "image": "COCO_val2014_000000553320.jpg", "annotations": ["umbrella", "dining table", "chair"]}
+{"image_id": 524844, "image": "COCO_val2014_000000524844.jpg", "annotations": ["bench", "car", "skateboard", "person"]}
+{"image_id": 540160, "image": "COCO_val2014_000000540160.jpg", "annotations": ["person", "train"]}
+{"image_id": 344483, "image": "COCO_val2014_000000344483.jpg", "annotations": ["zebra"]}
+{"image_id": 46331, "image": "COCO_val2014_000000046331.jpg", "annotations": ["baseball glove", "bench", "sports ball", "person"]}
+{"image_id": 524431, "image": "COCO_val2014_000000524431.jpg", "annotations": ["horse", "person"]}
+{"image_id": 271177, "image": "COCO_val2014_000000271177.jpg", "annotations": ["handbag", "motorcycle", "person"]}
+{"image_id": 137658, "image": "COCO_val2014_000000137658.jpg", "annotations": ["person", "cell phone"]}
+{"image_id": 124712, "image": "COCO_val2014_000000124712.jpg", "annotations": ["baseball glove", "chair", "baseball bat", "person"]}
+{"image_id": 96107, "image": "COCO_val2014_000000096107.jpg", "annotations": ["bowl", "oven", "dining table", "toaster", "cup", "potted plant", "bottle", "sink", "spoon", "chair", "refrigerator"]}
+{"image_id": 170346, "image": "COCO_val2014_000000170346.jpg", "annotations": ["sheep"]}
+{"image_id": 573796, "image": "COCO_val2014_000000573796.jpg", "annotations": ["knife", "dining table", "apple"]}
+{"image_id": 496198, "image": "COCO_val2014_000000496198.jpg", "annotations": ["handbag", "truck", "backpack", "person"]}
+{"image_id": 193717, "image": "COCO_val2014_000000193717.jpg", "annotations": ["handbag", "traffic light", "person", "car", "fire hydrant"]}
+{"image_id": 551454, "image": "COCO_val2014_000000551454.jpg", "annotations": ["traffic light", "clock", "person"]}
+{"image_id": 72096, "image": "COCO_val2014_000000072096.jpg", "annotations": ["bowl", "sandwich", "dining table", "knife", "cup", "fork", "person", "spoon", "chair"]}
+{"image_id": 171601, "image": "COCO_val2014_000000171601.jpg", "annotations": ["sheep", "person"]}
+{"image_id": 16030, "image": "COCO_val2014_000000016030.jpg", "annotations": ["dining table", "wine glass", "cup", "fork"]}
+{"image_id": 540816, "image": "COCO_val2014_000000540816.jpg", "annotations": ["airplane"]}
+{"image_id": 253967, "image": "COCO_val2014_000000253967.jpg", "annotations": ["person", "tie", "bottle", "cell phone"]}
+{"image_id": 245242, "image": "COCO_val2014_000000245242.jpg", "annotations": ["knife", "sandwich", "carrot"]}
+{"image_id": 230884, "image": "COCO_val2014_000000230884.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 98029, "image": "COCO_val2014_000000098029.jpg", "annotations": ["bowl", "knife", "dining table", "cup", "bottle", "banana", "orange", "cake", "spoon", "chair", "refrigerator", "apple"]}
+{"image_id": 411817, "image": "COCO_val2014_000000411817.jpg", "annotations": ["cell phone", "remote", "tv", "person"]}
+{"image_id": 570060, "image": "COCO_val2014_000000570060.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 410252, "image": "COCO_val2014_000000410252.jpg", "annotations": ["dog", "cat"]}
+{"image_id": 309528, "image": "COCO_val2014_000000309528.jpg", "annotations": ["handbag", "bus", "backpack", "person", "bottle"]}
+{"image_id": 403482, "image": "COCO_val2014_000000403482.jpg", "annotations": ["oven", "knife", "toaster", "microwave", "vase", "sink"]}
+{"image_id": 173383, "image": "COCO_val2014_000000173383.jpg", "annotations": ["knife", "dining table", "cup", "cake"]}
+{"image_id": 184499, "image": "COCO_val2014_000000184499.jpg", "annotations": ["dining table", "cup", "fork", "person", "cake", "spoon", "couch"]}
+{"image_id": 344222, "image": "COCO_val2014_000000344222.jpg", "annotations": ["dining table", "orange", "cup"]}
+{"image_id": 282037, "image": "COCO_val2014_000000282037.jpg", "annotations": ["baseball glove", "chair", "sports ball", "person"]}
+{"image_id": 541664, "image": "COCO_val2014_000000541664.jpg", "annotations": ["laptop", "keyboard"]}
+{"image_id": 250875, "image": "COCO_val2014_000000250875.jpg", "annotations": ["remote", "book", "couch", "person", "cell phone", "chair"]}
+{"image_id": 380711, "image": "COCO_val2014_000000380711.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 508440, "image": "COCO_val2014_000000508440.jpg", "annotations": ["suitcase", "book", "cat"]}
+{"image_id": 279259, "image": "COCO_val2014_000000279259.jpg", "annotations": ["tie", "person"]}
+{"image_id": 117089, "image": "COCO_val2014_000000117089.jpg", "annotations": ["bowl", "knife", "dining table", "cup", "fork", "hot dog", "person", "donut", "chair"]}
+{"image_id": 75216, "image": "COCO_val2014_000000075216.jpg", "annotations": ["cow"]}
+{"image_id": 411184, "image": "COCO_val2014_000000411184.jpg", "annotations": ["truck", "car"]}
+{"image_id": 417588, "image": "COCO_val2014_000000417588.jpg", "annotations": ["parking meter"]}
+{"image_id": 124985, "image": "COCO_val2014_000000124985.jpg", "annotations": ["dog", "couch", "potted plant", "cat", "chair"]}
+{"image_id": 103603, "image": "COCO_val2014_000000103603.jpg", "annotations": ["snowboard", "skis", "person"]}
+{"image_id": 226368, "image": "COCO_val2014_000000226368.jpg", "annotations": ["suitcase", "chair"]}
+{"image_id": 500084, "image": "COCO_val2014_000000500084.jpg", "annotations": ["cat"]}
+{"image_id": 452566, "image": "COCO_val2014_000000452566.jpg", "annotations": ["stop sign"]}
+{"image_id": 486968, "image": "COCO_val2014_000000486968.jpg", "annotations": ["bench"]}
+{"image_id": 452201, "image": "COCO_val2014_000000452201.jpg", "annotations": ["baseball glove", "baseball bat", "person"]}
+{"image_id": 10149, "image": "COCO_val2014_000000010149.jpg", "annotations": ["bowl", "knife", "vase", "cup", "person", "potted plant", "bottle", "spoon"]}
+{"image_id": 350623, "image": "COCO_val2014_000000350623.jpg", "annotations": ["bowl", "dining table", "potted plant", "orange", "vase", "chair", "sink", "apple"]}
+{"image_id": 249352, "image": "COCO_val2014_000000249352.jpg", "annotations": ["toilet"]}
+{"image_id": 539971, "image": "COCO_val2014_000000539971.jpg", "annotations": ["cat", "bed"]}
+{"image_id": 245534, "image": "COCO_val2014_000000245534.jpg", "annotations": ["clock"]}
+{"image_id": 27585, "image": "COCO_val2014_000000027585.jpg", "annotations": ["clock"]}
+{"image_id": 7977, "image": "COCO_val2014_000000007977.jpg", "annotations": ["skateboard", "person"]}
+{"image_id": 488736, "image": "COCO_val2014_000000488736.jpg", "annotations": ["clock"]}
+{"image_id": 142744, "image": "COCO_val2014_000000142744.jpg", "annotations": ["cat", "tv"]}
+{"image_id": 522198, "image": "COCO_val2014_000000522198.jpg", "annotations": ["motorcycle", "person"]}
+{"image_id": 399296, "image": "COCO_val2014_000000399296.jpg", "annotations": ["hot dog", "person"]}
+{"image_id": 556341, "image": "COCO_val2014_000000556341.jpg", "annotations": ["chair", "zebra", "person"]}
+{"image_id": 360716, "image": "COCO_val2014_000000360716.jpg", "annotations": ["skis", "person"]}
+{"image_id": 186060, "image": "COCO_val2014_000000186060.jpg", "annotations": ["tennis racket", "sports ball", "person"]}
+{"image_id": 382462, "image": "COCO_val2014_000000382462.jpg", "annotations": ["sports ball", "person"]}
+{"image_id": 44934, "image": "COCO_val2014_000000044934.jpg", "annotations": ["cup", "fork", "pizza"]}
+{"image_id": 384213, "image": "COCO_val2014_000000384213.jpg", "annotations": ["bowl", "oven", "book", "bottle", "sink"]}
+{"image_id": 521613, "image": "COCO_val2014_000000521613.jpg", "annotations": ["chair", "couch", "potted plant"]}
+{"image_id": 337505, "image": "COCO_val2014_000000337505.jpg", "annotations": ["spoon", "fork"]}
+{"image_id": 140487, "image": "COCO_val2014_000000140487.jpg", "annotations": ["bicycle", "book", "wine glass", "person", "bottle", "couch", "bed"]}
+{"image_id": 525119, "image": "COCO_val2014_000000525119.jpg", "annotations": ["dining table", "chair", "hot dog", "person"]}
+{"image_id": 530013, "image": "COCO_val2014_000000530013.jpg", "annotations": ["baseball glove", "sports ball", "baseball bat", "person"]}
+{"image_id": 287216, "image": "COCO_val2014_000000287216.jpg", "annotations": ["bench", "dining table", "teddy bear", "person"]}
+{"image_id": 205401, "image": "COCO_val2014_000000205401.jpg", "annotations": ["airplane", "boat", "person"]}
+{"image_id": 626, "image": "COCO_val2014_000000000626.jpg", "annotations": ["clock"]}
+{"image_id": 64016, "image": "COCO_val2014_000000064016.jpg", "annotations": ["bird", "person"]}
+{"image_id": 185781, "image": "COCO_val2014_000000185781.jpg", "annotations": ["person", "bottle", "laptop", "cell phone"]}
+{"image_id": 360877, "image": "COCO_val2014_000000360877.jpg", "annotations": ["person", "bottle", "banana", "chair", "apple"]}
+{"image_id": 528184, "image": "COCO_val2014_000000528184.jpg", "annotations": ["clock"]}
+{"image_id": 402248, "image": "COCO_val2014_000000402248.jpg", "annotations": ["kite", "person"]}
+{"image_id": 505814, "image": "COCO_val2014_000000505814.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 49259, "image": "COCO_val2014_000000049259.jpg", "annotations": ["person"]}
+{"image_id": 357957, "image": "COCO_val2014_000000357957.jpg", "annotations": ["couch", "tv"]}
+{"image_id": 632, "image": "COCO_val2014_000000000632.jpg", "annotations": ["book", "chair", "bed", "potted plant"]}
+{"image_id": 297419, "image": "COCO_val2014_000000297419.jpg", "annotations": ["bird", "dining table", "chair"]}
+{"image_id": 492970, "image": "COCO_val2014_000000492970.jpg", "annotations": ["bowl", "remote", "book", "chair", "tv", "couch"]}
+{"image_id": 442231, "image": "COCO_val2014_000000442231.jpg", "annotations": ["handbag", "dining table", "cup", "person", "chair", "pizza"]}
+{"image_id": 206550, "image": "COCO_val2014_000000206550.jpg", "annotations": ["clock"]}
+{"image_id": 549335, "image": "COCO_val2014_000000549335.jpg", "annotations": ["person", "surfboard"]}
+{"image_id": 122588, "image": "COCO_val2014_000000122588.jpg", "annotations": ["remote", "keyboard", "cell phone", "tv", "mouse"]}
+{"image_id": 175539, "image": "COCO_val2014_000000175539.jpg", "annotations": ["stop sign", "car"]}
+{"image_id": 206027, "image": "COCO_val2014_000000206027.jpg", "annotations": ["bottle", "dining table", "pizza"]}
+{"image_id": 293757, "image": "COCO_val2014_000000293757.jpg", "annotations": ["bird", "chair", "cat"]}
+{"image_id": 126659, "image": "COCO_val2014_000000126659.jpg", "annotations": ["bus", "person", "truck", "car", "airplane"]}
+{"image_id": 433574, "image": "COCO_val2014_000000433574.jpg", "annotations": ["chair", "cell phone", "couch", "person"]}
+{"image_id": 31596, "image": "COCO_val2014_000000031596.jpg", "annotations": ["dining table", "chair", "pizza", "person"]}
+{"image_id": 559113, "image": "COCO_val2014_000000559113.jpg", "annotations": ["bicycle", "bus", "traffic light", "person", "car"]}
+{"image_id": 459182, "image": "COCO_val2014_000000459182.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 222228, "image": "COCO_val2014_000000222228.jpg", "annotations": ["book", "dining table", "couch", "cat", "chair"]}
+{"image_id": 294297, "image": "COCO_val2014_000000294297.jpg", "annotations": ["bowl", "bottle", "broccoli"]}
+{"image_id": 512166, "image": "COCO_val2014_000000512166.jpg", "annotations": ["spoon", "cup", "person"]}
+{"image_id": 475586, "image": "COCO_val2014_000000475586.jpg", "annotations": ["tie", "person"]}
+{"image_id": 231628, "image": "COCO_val2014_000000231628.jpg", "annotations": ["surfboard", "person"]}
+{"image_id": 165012, "image": "COCO_val2014_000000165012.jpg", "annotations": ["frisbee", "person"]}
+{"image_id": 326128, "image": "COCO_val2014_000000326128.jpg", "annotations": ["snowboard", "backpack", "person"]}
+{"image_id": 168593, "image": "COCO_val2014_000000168593.jpg", "annotations": ["chair", "refrigerator"]}
+{"image_id": 428786, "image": "COCO_val2014_000000428786.jpg", "annotations": ["horse"]}
+{"image_id": 188509, "image": "COCO_val2014_000000188509.jpg", "annotations": ["scissors"]}
+{"image_id": 529698, "image": "COCO_val2014_000000529698.jpg", "annotations": ["motorcycle", "car", "person"]}
+{"image_id": 497344, "image": "COCO_val2014_000000497344.jpg", "annotations": ["person", "bottle", "laptop", "cell phone"]}
+{"image_id": 89078, "image": "COCO_val2014_000000089078.jpg", "annotations": ["snowboard", "person"]}
+{"image_id": 97465, "image": "COCO_val2014_000000097465.jpg", "annotations": ["person", "couch", "cell phone"]}
+{"image_id": 364439, "image": "COCO_val2014_000000364439.jpg", "annotations": ["bench"]}
+{"image_id": 509588, "image": "COCO_val2014_000000509588.jpg", "annotations": ["zebra"]}
+{"image_id": 393511, "image": "COCO_val2014_000000393511.jpg", "annotations": ["bowl", "dining table", "vase", "cup", "person", "potted plant", "bottle", "spoon"]}
+{"image_id": 567205, "image": "COCO_val2014_000000567205.jpg", "annotations": ["cell phone", "car", "parking meter", "person"]}
+{"image_id": 490105, "image": "COCO_val2014_000000490105.jpg", "annotations": ["dog", "chair", "tv", "person"]}
+{"image_id": 330022, "image": "COCO_val2014_000000330022.jpg", "annotations": ["sheep", "dog", "bird", "horse", "cake"]}
+{"image_id": 231879, "image": "COCO_val2014_000000231879.jpg", "annotations": ["cake", "dining table", "chair", "person"]}
+{"image_id": 464359, "image": "COCO_val2014_000000464359.jpg", "annotations": ["bench", "skateboard", "person"]}
+{"image_id": 84530, "image": "COCO_val2014_000000084530.jpg", "annotations": ["bench", "dog", "person"]}
+{"image_id": 484042, "image": "COCO_val2014_000000484042.jpg", "annotations": ["surfboard", "person"]}
