@@ -85,6 +85,6 @@ for line in tqdm(lines):
         )
         
     description = tokenizer.decode(outputs.sequences[0], skip_special_tokens=False)
-    with open(f"data/generated_data/test.jsonl", "w") as f:
+    with open(f"data/generated_data/test.jsonl", "a") as f:
         f.write(json.dumps({"image_id": data['image_id'], "image": data['image'], "description": description,
                             "annotations": data['annotations']}) + "\n")
